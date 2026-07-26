@@ -9,7 +9,7 @@ detalle para quien lo necesite.
 
 | | Qué es | Filas | Columnas |
 |---|---|---|---|
-| **`incendios_pif.csv.gz`** | **La tabla principal. Una fila por incendio.** | 646.887 | 72 |
+| **`incendios_pif.csv.gz`** | **La tabla principal. Una fila por parte de incendio.** | 646.887 | 72 |
 | [`tablas_secundarias/`](tablas_secundarias/) | 28 tablas de detalle, una por fichero | 9.965.794 | — |
 
 Van comprimidos porque sin comprimir suman 480 MB y GitHub rechaza los ficheros de más
@@ -19,7 +19,7 @@ Las secundarias están organizadas según la jerarquía que define la propia bas
 oficial del MITECO, en dos niveles:
 
 ```
-incendios_pif.csv.gz                 1 fila por incendio
+incendios_pif.csv.gz                 1 fila por parte de incendio
    │
    ├── nivel_incendio/   (19)        se unen por  numeroparte
    │      RelMedioPersonalPif.csv.gz, RelTipoFuegoPif.csv.gz, …
@@ -48,10 +48,18 @@ códigos siguen siendo códigos.
 
 ## Lo que hay que saber antes de usarla
 
-- **Una fila = un parte de incendio.** `numeroparte` es la clave, y no se repite.
-- **`numeroparte` no es un incendio físico.** Un fuego que cruza de provincia genera
-  **dos partes distintos**, uno por provincia, cada uno con su trozo de superficie.
-  Sumar superficies da bien; contar incendios sobreestima.
+- **Una fila = un parte de incendio**, no un incendio físico. `numeroparte` es la clave
+  y no se repite.
+  La diferencia viene de que **un fuego que cruza de provincia genera dos partes**, uno
+  por provincia, cada uno con la superficie que le corresponde. En la práctica afecta a
+  **155 casos de 646.887 (0,024%)**: los 646.887 partes equivalen a unos 646.732
+  incendios. Sumar superficies da bien de todos modos; contar incendios sobreestima en
+  ese 0,024%.
+  Los partes enlazados se identifican con
+  [`RelAsociadoPif`](tablas_secundarias/nivel_incendio/), pero **esa tabla mezcla dos
+  cosas**: de sus 6.874 enlaces, solo 155 son cruces de provincia; 6.619 son incendios
+  reproducidos, que son fuegos **distintos** y no deben fusionarse. Se distinguen porque
+  el reproducido lleva `idcausa = 600`.
 - **Los códigos no están traducidos.** `idcausa`, `idcomunidad`, etc. son números.
   Los 61 diccionarios están en [`datos_extraidos/`](datos_extraidos/) (`CodCausa.csv`,
   `Comunidad.csv`…), y la correspondencia entre cada campo y su diccionario está en
@@ -159,7 +167,7 @@ Lo correcto es **agregar cada tabla por su cuenta y unir después los resultados
 ```python
 per = (pd.read_csv("tablas_secundarias/nivel_incendio/RelMedioPersonalPif.csv.gz", sep=";")
          .groupby("numeroparte")["numero"].sum().rename("personal_total"))
-inc.merge(per, on="numeroparte", how="left")    # una fila por incendio, sin duplicar
+inc.merge(per, on="numeroparte", how="left")    # una fila por parte, sin duplicar
 ```
 
 ### Las 28 tablas secundarias
