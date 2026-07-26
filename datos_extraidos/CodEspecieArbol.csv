@@ -1,0 +1,186 @@
+﻿IdEspecie;Descripcion;idtipo
+1;Heberdenia bahamensis;3
+2;Amelanchier ovalis;3
+3;Frangula alnus;3
+4;Rhamnus alaternus;3
+5;Euonymus europaeus;2
+6;Myrtus communis;3
+7;Acacia spp.;2
+8;Phillyrea latifolia;3
+9;Cornus sanguinea;3
+10;Sin asignar;3
+11;Ailanthus altissima;2
+12;Malus sylvestris;2
+13;Celtis australis;2
+14;Taxus baccata;1
+15;Crataegus spp.;2
+16;Pyrus spp.;2
+17;Cedrus atlantica;1
+18;Chamaecyparis lawsoniana;1
+19;Otras coníferas;1
+20;Pinos;1
+21;Pinus sylvestris;1
+22;Pinus uncinata;1
+23;Pinus pinea;1
+24;Pinus halepensis;1
+25;Pinus nigra;1
+26;Pinus pinaster;1
+27;Pinus canariensis;1
+28;Pinus radiata;1
+29;Otros pinos;1
+30;Mezcla de coníferas;1
+31;Abies alba;1
+32;Abies pinsapo;1
+33;Picea excelsa;1
+34;Pseudotsuga menziesii;1
+35;Larix sp.;1
+36;Cupressus sp.;1
+37;Juniperus oxycedrus;1
+38;Junip.sabina,phoenicea;1
+39;Otras coníferas;1
+40;Quercus;2
+41;Quercus robur;2
+42;Quercus petraea;2
+43;Quercus pyrenaica;2
+44;Quercus faginea;2
+45;Quercus ilex;2
+46;Quercus suber;2
+47;Quercus canariensis;2
+48;Quercus rubra;2
+49;Otros Quercus;2
+50;Populus x canadiensis;2
+51;Populus alba;2
+52;Populus tremula;2
+53;Populus nigra;2
+54;Alnus glutinosa;2
+55;Fraxinus sp.;2
+56;Ulmus sp.;2
+57;Salix sp.;2
+58;Otros Populus;2
+59;Otros árboles de ribera;2
+60;Ilex aquifolium;2
+61;Eucalyptus globulus;2
+62;Eucalyptus camaldulensis;2
+63;Erica arborea canaria;2
+64;Eucalyptus nittens;2
+65;Eucalyptus dalrympleana;2
+66;Olea europaea;2
+67;Ceratonia siliqua;2
+68;Arbutus unedo ;2
+69;Otros Eucalyptus;2
+70;Mezcla de frondosas de gran porte;2
+71;Fagus sylvatica;2
+72;Castanea sativa;2
+73;Betula sp.;2
+74;Corylus avellana;2
+75;Juglans regia;2
+76;Acer sp.;2
+77;Tilia sp.;2
+78;Sorbus sp.;2
+79;Otras frondosas;2
+80;Laurisilva;2
+81;Phoenix dactyliphera;3
+82;Fayal - Brezal canario;3
+83;Robinia pseudoacacia;2
+84;Tamarix Gallica;2
+85;Sideroxylon marmulano;2
+86;Picconia excelsa;2
+87;Ocotea phoetens;2
+88;Apollonias canariensis;2
+89;Otras laurisilvas;2
+90;Mezcla de pequeñas frondosas;2
+91;Buxus sempervirens;2
+92;Robinia pseudacacia;2
+93;Pistacia terebinthus;2
+94;Laurus nobilis;2
+95;Prunus spp.;2
+96;Rhus coriaria;2
+97;Sambucus nigra;2
+98;Carpinus betulus;2
+99;Sin codificar en origen;3
+100;sin especificar;3
+207;Acacia melanoxylon;2
+215;Crataegus monogyna;2
+217;Cedrus deodara;1
+219;Tetraclinis articulata;1
+235;Larix decidua;1
+236;Cupressus arizonica;1
+237;Juniperus oxycedrus;1
+238;Juniperus turbinata;1
+239;Juniperus sabina;1
+243;Quercus humilis;2
+244;Quercus lusitanica;2
+253;Tamarix canariensis;2
+255;Fraxinus excelsior;2
+256;Ulmus glabra;2
+257;Salix alba;2
+258;Populus x canadensis;2
+264;Eucalyptus viminalis;2
+268;Arbutus canariensis;2
+273;Betula alba;2
+275;Juglans nigra;2
+276;Acer monspessulanum;2
+277;Tilia cordata;2
+278;Sorbus aria;2
+279;Platanus orientalis;2
+282;Ilex platyphylla;2
+283;Erica escoparia;3
+289;Pleiomeris canariensis;2
+291;Buxus balearica;2
+292;Sophora japonica;2
+293;Pistacia atlantica;2
+294;Laurus azorica;2
+295;Prunus spinosa;2
+297;Sambucus racemosa;2
+299;Ficus carica;2
+307;Acacia dealbata;2
+315;Crataegus laevigata;2
+317;Cedrus libani;1
+319;Thuja spp.;1
+335;Larix leptolepis;1
+336;Cupressus lusitanica;1
+337;Juniperus cedrus;1
+355;Fraxinus ornus;2
+356;Ulmus pumila;2
+357;Salix atrocinerea;2
+364;Eucalyptus gomphocephalus;2
+369;Chamaerops humilis;3
+373;Betula pendula;2
+376;Acer negundo;2
+377;Tilia platyphyllos;2
+378;Sorbus aucuparia;2
+389;Rhamnus glandulosa;2
+392;Gleditsia triacanthos;2
+395;Prunus avium;2
+399;Morus spp.;2
+415;Crataegus lacinata;2
+435;Larix x eurolepis;1
+436;Cupressus macrocarpa;1
+457;Salix babylonica;2
+469;Phoenix canariensis;3
+476;Acer opalus;2
+478;Sorbus domestica;2
+489;Visnea mocanera;2
+495;Prunus lusitanica;2
+499;Morus alba;2
+515;Crataegus azarolus;2
+557;Salix cantabrica;2
+569;Dracaena drago;1
+576;Acer pseudoplatanus;2
+578;Sorbus torminalis;2
+595;Prunus padus;2
+599;Morus nigra;2
+657;Salix caprea;2
+676;Acer platanoides;2
+678;Sorbus latifolia;2
+757;Salix elaeagnos;2
+778;Sorbus chamaemespilus;2
+857;Salix fragilis;2
+858;Salix canariensis;2
+957;Salix purpurea;2
+999;Especie sin identificar;3
+1500;Cultivo en mosaico;3
+3400;Prado en mosaico;3
+3500;Pastizal-Matorral en mosaico;3
+8000;Matorral en mosaico;3
+9000;Herbazal en mosaico;3

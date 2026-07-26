@@ -1,0 +1,19 @@
+﻿IdTransportePersonal;Descripcion;IdIdioma
+0;Sin transporte de personal;0
+0;Sense transport de personal;1
+0;Zehaztu lurreko langileen;2
+0;Sen transporte de personal;3
+0;Sense transport de personal;4
+0;Sense transport de personal;5
+1;Vehículos;0
+1;Vehicles;1
+1;Ibilgailuak;2
+1;Vehículos;3
+1;Vehicles;4
+1;Vehicles;5
+2;Helicópteros;0
+2;Helicopters;1
+2;Helikopteroak;2
+2;Helicópteros;3
+2;Helicopters;4
+2;Helicopters;5

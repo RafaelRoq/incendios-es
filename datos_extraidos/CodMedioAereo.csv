@@ -1,0 +1,31 @@
+﻿IdMedioAereo;Descripcion;IdIdioma
+1;Aviones anfibios;0
+1;Avions amfibis;1
+1;Hegazkin anfibioak;2
+1;Avións anfibios;3
+1;Avions amfibis;4
+1;Avions amfibis;5
+2;Aviones de carga en tierra;0
+2;Avions de càrrega en terra;1
+2;Lurreko kargen planoak;2
+2;Avións de carga en terra;3
+2;Avions de càrrega en terra;4
+2;Avions de càrrega en terra;5
+3;Helicópteros de extinción;0
+3;Helicòpters d'extinció (dipòsit ventral);1
+3;Extinction helikopteroak (ventral tank);2
+3;Helicópteros de extinción (tanque ventral);3
+3;Helicòpters d'extinció (dipòsit ventral);4
+3;Helicòpters d'extinció (dipòsit ventral);5
+4;Helicópteros para transporte de cuadrillas y extinción;0
+4;Helicòpters per a transport de quadrilles i extinció;1
+4;Koadrilen eta desagertzeko garraioko helikopteroak;2
+4;Helicópteros para transporte de bandas e extinción;3
+4;Helicòpters per a transport de quadrilles i extinció;4
+4;Helicòpters per a transport de quadrilles i extinció;5
+5;Aeronave de coordinación - observación;0
+5;Aeronau de coordinació;1
+5;Koordinazio hegazkina;2
+5;Avión de coordinación;3
+5;Aeronau de coordinació;4
+5;Aeronau de coordinació;5

@@ -1,0 +1,13 @@
+# Solo hacen falta para leer la plantilla Access (.mdb):
+#   pyodbc   -> extraccion_access.py     (catalogos)
+#   pywin32  -> extraer_relaciones.py    (relaciones, via DAO; ODBC no puede)
+#
+# Los scripts que construyen las tablas a partir de los XML -- unir_pif.py,
+# tablas_secundarias.py y verificar.py -- usan solo la biblioteca estandar de
+# Python, sin ninguna dependencia externa.
+#
+# Requiere ademas Python de 64 bits y el driver ODBC de Access de 64 bits: la
+# arquitectura de ambos debe coincidir.
+
+pyodbc>=5.0
+pywin32>=306

@@ -1,0 +1,26 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Notas internas de trabajo: no forman parte de la publicacion
+CLAUDE.md
+
+# Datos de origen del MITECO (171 MB). Se descargan del buscador oficial
+# siguiendo las instrucciones del README.
+datos_egif/
+
+# Material del MITECO: se enlaza desde el README, no se redistribuye. Lo que si
+# se publica es el resultado de procesarlo (datos_extraidos/, relaciones_egif.csv),
+# que es lo que evita tener que abrir Access.
+#   - los 4 PDF de documentacion oficial
+#   - la plantilla Access (19.7 MB), descargable desde el boton "i" del buscador
+*.pdf
+*.mdb
+*.accdb
+
+# Las tablas se publican comprimidas (.csv.gz). Las versiones sin comprimir son
+# un producto intermedio de los scripts.
+incendios_pif.csv
+tablas_secundarias/nivel_incendio/*.csv
+tablas_secundarias/nivel_monte/*.csv

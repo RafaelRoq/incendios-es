@@ -1,0 +1,25 @@
+﻿IdAutorizacionActividad;IdIdioma;Descripcion
+1;0;Autorizada
+1;1;Autoritzada
+1;2;Onartzen
+1;3;Autorizada
+1;4;Autoritzada
+1;5;Autoritzada
+2;0;Sin autorización
+2;1;Sense autorització
+2;2;Baimenik gabe
+2;3;Sen autorización
+2;4;Sense autorització
+2;5;Sense autorització
+3;0;No necesaria
+3;1;No necessària
+3;2;Ez da beharrezkoa
+3;3;Non é necesario
+3;4;No necessària
+3;5;No necessària
+4;0;No permitida
+4;1;No permesa
+4;2;Ez da onartzen
+4;3;Non se permite
+4;4;No permesa
+4;5;No permesa

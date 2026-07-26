@@ -1,0 +1,64 @@
+﻿IdClave;Codigo;Descripcion;Nom
+0;OTROS;Otros;OT
+1;DOAUF710;Hayedos (Fagus sylvatica);DO
+2;DOAUC310;Abetales (Abies alba);DO
+3;MXAUF820;Bosque mixto de frondosas en la región biogeográfica Atlántica;MX
+4;DOAUF400;Robledales de Q. robur y/o Q. petraea;DO
+6;DOAUC390;Sabinares de Juniperus phoenicea;DO
+7;DOAUC370;Enebrales (Juniperus spp.);DO
+8;DOAUF730;Abedulares (Betula spp.);DO
+9;DOAUF650;Acebedas (Ilex aquifolium);DO
+13;DOAUF940;Avellanedas (Corylus avellana);DO
+14;DOAUF243;Robledales de roble pubescente (Q. humilis);DO
+15;DOAUF430;Melojares (Quercus pyrenaica);DO
+16;DOAUF440;Quejigares (Quercus faginea);DO
+17;DOAUF470;Quejigares de Quercus canariensis;DO
+18;DOAUF450;Encinares (Quercus ilex);DO
+19;DOAUF460;Alcornocales (Quercus suber);DO
+20;DOAUC380;Sabinares albares (Juniperus thurifera);DO
+21;DOAUC210;Pinar de pino albar (Pinus sylvestris);DO
+22;DOAUC220;Pinar de pino negro (Pinus uncinata);DO
+23;DOAUC230;Pinar de pino piñonero (Pinus pinea);DO
+24;DOAUC240;Pinar de pino carrasco (Pinus halepensis);DO
+25;DOAUC250;Pinar de pino salgareño (Pinus nigra);DO
+27;DOAUC270;Pinar de pino canario (Pinus canariensis);DO
+28;DOAUC320;Pinsapares (Abies pinsapo);DO
+29;DOAUF720;Castañares (Castanea sativa);DO
+31;MXAUF830;Bosque mixto de frondosas en la región biogeográfica Mediterránea;MX
+33;STRIF910;Bosque ribereño;MX
+34;STDEF920;Dehesas;DO
+35;DOAUF660;Acebuchales (Olea europaea var. Sylvestris);DO
+36;MXAUF842;Laurisilvas macaronésicas;MX
+37;MXAUF850;Palmerales y mezclas de plameras con otras especies;MX
+38;STREM940;Otras de especies de producción en mezcla;MX
+41;MXAAF881;Frondosas alóctonas con  autóctonas;MX
+43;DOAUF680;Madroñales (Arbutus unedo);DO
+44;STREF258;Choperas y plataneras de producción;DO
+46;DOALC190;Coníferas alóctonas de gestión (Cupressus sp, Cedrus spp. otros pinos, etc.);DO
+49;DOALF070;Frondosas alóctonas invasoras ;DO
+50;DOAUC238;Sabinares canarios (Juniperus turbinata);DO
+51;MXAUF841;Fayal-brezal;MX
+52;DOAUF670;Algarrobales (Ceratonia siliqua);DO
+54;MXAUF810;Bosque mixto de frondosas en la región biogeográfica Alpina;MX
+55;MXAUF843;Otras mezclas de frondosas  Macaronésicas;MX
+56;DOAUF550;Fresnedas (Fraxinus spp.);DO
+57;STREF600;Eucaliptal (Eucaliptus spp.);DO
+58;STREC280;Pinar de pino radiata (Pinus radiata);DO
+61;DOAUC261; Pinar de pino pinaster en región mediterránea (P.pinaster spp. mesogeensis);DO
+62;STREC262;Pinares de pino pinaster en región atlántica (Pinus pinaster spp. atlántica);DO
+63;STREF480;Repoblación de Quercus rubra;DO
+64;STREC300;Otras coníferas alóctonas de producción (Larix spp., Pseudotsuga spp., etc);MX
+65;MXAAC882;Coníferas alóctonas con  autóctonas;MX
+66;MXAAM883;Coníferas con frondosas (alóctonas con  autóctonas);MX
+391;MXAUC861;Mezcla de coníferas autóctonas en la región biogeográfica Alpina;MX
+392;MXAUC862;Mezcla de coníferas autóctonas en la región biogeográfica Atlántica;MX
+393;MXAUC863;Mezcla de coníferas autóctonas en la región biogeográfica Mediterránea;MX
+394;MXAUC864;Mezcla de coníferas autóctonas en la región biogeográfica Macaronésica;MX
+401;MXAUM871;Mezcla de coníferas y frondosas autóctonas en la región biogeográfica Alpina;MX
+402;MXAUM872;Mezcla de coníferas y frondosas autóctonas en la región biogeográfica Atlántica;MX
+403;MXAUM873;Mezcla de coníferas y frondosas autóctonas en la región biogeográfica Mediterránea;MX
+404;MXAUM874;Mezcla de coníferas y frondosas autóctonas en la región biogeográfica Macaronésica;MX
+591;STDIF931;Arbolado disperso de frondosas;MX
+592;STDIC932;Arbolado disperso coníferas;MX
+593;STDIM933;Arbolado disperso coníferas y frondosas;MX
+888;XXXXX888;Repoblaciones con especie sin identificar;DO

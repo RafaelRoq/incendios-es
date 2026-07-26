@@ -1,0 +1,37 @@
+﻿IdTipoArea;IdIdioma;Descripcion
+1;0;Área agrícola
+1;1;Área agrícola
+1;2;Nekazaritza eremua
+1;3;Área agrícola
+1;4;Área agrícola
+1;5;Área agrícola
+2;0;Área forestal
+2;1;Área forestal
+2;2;Baso eremua
+2;3;Área forestal
+2;4;Área forestal
+2;5;Área forestal
+3;0;Área urbana residencial
+3;1;Área urbana residencial
+3;2;Urban bizitoki-eremua
+3;3;Área urbana residencial
+3;4;Área urbana residencial
+3;5;Área urbana residencial
+4;0;Área militar
+4;1;Área militar
+4;2;Eremu militarra
+4;3;Área militar
+4;4;Área militar
+4;5;Área militar
+5;0;Área ganadera
+5;1;Área ramadera
+5;2;Abeltzaintza eremua
+5;3;Área de gando
+5;4;Área ramadera
+5;5;Área ramadera
+6;0;Área urbana industrial
+6;1;Área urbana industrial
+6;2;Hiri industriala
+6;3;Área urbana industrial
+6;4;Área urbana industrial
+6;5;Área urbana industrial

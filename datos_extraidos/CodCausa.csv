@@ -1,0 +1,523 @@
+﻿IdCausa;Descripcion;DescripcionCorta;IdIdioma;IdCausaEuropa;DescripcionEuropa
+100;Rayo;Rayo;0;ES_100;Lightning
+100;Llamp;Llamp;1;ES_100;Lightning
+100;Tximista;Tximista;2;ES_100;Lightning
+100;Lóstgrego;Lóstgrego;3;ES_100;Lightning
+100;Llamp;Llamp;4;ES_100;Lightning
+100;Llamp;Llamp;5;ES_100;Lightning
+210;Otras quemas agrícolas;Quema agrícola (s.e.);0;ES_210;Agricultural burning
+210;Crema agrícola;Crema agrícola (s.e);1;ES_210;Agricultural burning
+210;Nekazaritza-erreketak;Nekazaritza-E. (z.g.);2;ES_210;Agricultural burning
+210;Queima agrícola;Queima Agrícola (s.e.);3;ES_210;Agricultural burning
+210;Crema agrícola;Crema agrícola (s.e);4;ES_210;Agricultural burning
+210;Crema agrícola;Crema agrícola (s.e);5;ES_210;Agricultural burning
+211;Quema agrícola (quema de rastrojos);Quemas de rastrojos;0;ES_211;Stubs burning
+211;Crema agrícola (crema de rostolls);Crema agrícola (rostolls);1;ES_211;Stubs burning
+211;Nekazaritza-erreketak (ibintze-erreketa);Nekazaritza-E. (Sastrakak);2;ES_211;Stubs burning
+211;Queima agrícola (queima de rastrollos);Queima Agrícola (rastrollos);3;ES_211;Stubs burning
+211;Crema agrícola (crema de rostolls);Crema agrícola (rostolls);4;ES_211;Stubs burning
+211;Crema agrícola (crema de rostolls);Crema agrícola (rostolls);5;ES_211;Stubs burning
+212;Quema de restos de poda;Quema agrícola (restos poda);0;ES_212;Burning of pruning derbies
+212;Crema agrícola (crema de restes de poda);Crema agricola (restes poda);1;ES_212;Burning of pruning derbies
+212;Nekazaritza-erreketak (inausketaren ondarren erreketa);Nekazaritza-E. (Inausketaren ondarrak);2;ES_212;Burning of pruning derbies
+212;Queima agrícola (queima de restos de poda);Queima agrícola (restos poda);3;ES_212;Burning of pruning derbies
+212;Crema agrícola (crema de restes de poda);Crema agricola (restes poda);4;ES_212;Burning of pruning derbies
+212;Crema agrícola (crema de restes d’esporgada);Crema agrícola (restes esporgada);5;ES_212;Burning of pruning derbies
+213;Quema de restos agrícolas (viñas,etc);Quema de restos agrícolas (viñas,etc);0;ES_215;Other fires set for agricultural purposes
+213;Crema de restes agrícoles (vinyes, etc.);Crema de restes agrícoles;1;ES_215;Other fires set for agricultural purposes
+213; Nekazaritza hondarrak erretzea (mahastiak, etab.); Nekazaritza hondarrak erretzea ;2;ES_215;Other fires set for agricultural purposes
+213; Queima de restos agrícolas (viñedos, etc.); Queima de restos agrícolas;3;ES_215;Other fires set for agricultural purposes
+213;Crema de restes agrícoles (vinyes, etc.);Crema de restes agrícoles;4;ES_215;Other fires set for agricultural purposes
+213;Crema de restes agrícoles (vinyes, etc.);Crema de restes agrícoles;5;ES_215;Other fires set for agricultural purposes
+214;Quema de restos horto-frutícolas;Quema de restos horto-frutícolas;0;ES_215;Other fires set for agricultural purposes
+214; Crema de restes horto-frutícoles; Crema de restes horto-frutícoles;1;ES_215;Other fires set for agricultural purposes
+214; Baratzezaintza aztarnak erretzea; Baratzezaintza aztarnak erretzea;2;ES_215;Other fires set for agricultural purposes
+214; Queima de restos hortícolas; Queima de restos hortícolas;3;ES_215;Other fires set for agricultural purposes
+214; Crema de restes horto-frutícoles; Crema de restes horto-frutícoles;4;ES_215;Other fires set for agricultural purposes
+214; Crema de restes horto-frutícoles; Crema de restes horto-frutícoles;5;ES_215;Other fires set for agricultural purposes
+215;Quema de pacas;Quema de pacas;0;ES_215;Other fires set for agricultural purposes
+215; Crema de bales; Crema de bales;1;ES_215;Other fires set for agricultural purposes
+215; Baltsak erretzea; Baltsak erretzea;2;ES_215;Other fires set for agricultural purposes
+215; Fardos ardentes; Fardos ardentes;3;ES_215;Other fires set for agricultural purposes
+215; Crema de bales; Crema de bales;4;ES_215;Other fires set for agricultural purposes
+215; Crema de bales; Crema de bales;5;ES_215;Other fires set for agricultural purposes
+216;Quema para limpieza de fincas (excepto rastrojos);Quema para limpieza de fincas (excepto rastrojos);0;ES_215;Other fires set for agricultural purposes
+216; Crema per a neteja de finques (excepte rostolls); Crema per a neteja de finques;1;ES_215;Other fires set for agricultural purposes
+216;Quema para limpieza de fincas (excepto rastrojos);Quema para limpieza de fincas;2;ES_215;Other fires set for agricultural purposes
+216;Quema para limpieza de fincas (excepto rastrojos);Quema para limpieza de fincas;3;ES_215;Other fires set for agricultural purposes
+216; Crema per a neteja de finques (excepte rostolls); Crema per a neteja de finques;4;ES_215;Other fires set for agricultural purposes
+216; Crema per a neteja de finques (excepte rostolls); Crema per a neteja de finques;5;ES_215;Other fires set for agricultural purposes
+220;Otras quemas ganaderas;Otras quemas ganaderas (sin especificar);0;ES_220;Pasture regeneration burning
+220; Altres cremes ramaderes; Altres cremes ramaderes (sense especificar);1;ES_220;Pasture regeneration burning
+220; Abeltzaintzako bestelako erredurak; Abeltzaintzako bestelako erredurak (zehaztugabea);2;ES_220;Pasture regeneration burning
+220;Outras quemaduras de gando;Outras quemaduras de gando (sen especificar);3;ES_220;Pasture regeneration burning
+220; Altres cremes ramaderes; Altres cremes ramaderes (sense especificar);4;ES_220;Pasture regeneration burning
+220; Altres cremes ramaderes; Altres cremes ramaderes (sense especificar);5;ES_220;Pasture regeneration burning
+221;Quema de matorral;Quema de matorral;0;ES_221;Bush Burning
+221; Crema de matoll; Crema de matoll;1;ES_221;Bush Burning
+221; Garbiketa sasiak; Garbiketa sasiak;2;ES_221;Bush Burning
+221; Matorral ardente; Matorral ardente;3;ES_221;Bush Burning
+221; Crema de matoll; Crema de matoll;4;ES_221;Bush Burning
+221; Crema de matoll; Crema de matoll;5;ES_221;Bush Burning
+222;Quema de herbáceas;Quema de herbáceas;0;ES_222;Burning of herbaceous
+222; Crema dherbàcies; Crema dherbàcies;1;ES_222;Burning of herbaceous
+222; Belar erretzea; Belar erretzea;2;ES_222;Burning of herbaceous
+222; Queima herbácea; Queima herbácea;3;ES_222;Burning of herbaceous
+222; Crema dherbàcies; Crema dherbàcies;4;ES_222;Burning of herbaceous
+222; Crema dherbàcies; Crema dherbàcies;5;ES_222;Burning of herbaceous
+230;Otras quemas en trabajos forestales (conocidas);Otras quemas en trabajos forestales (conocidas);0;ES_203;Forest works
+230;Altres cremes en treballs forestals (conegudes);Altres cremes en treballs forestals (conegudes);1;ES_203;Forest works
+230;Basoetako beste erredurak (ezagunak);Basoetako beste erredurak (ezagunak);2;ES_203;Forest works
+230;Outras quemaduras nas obras forestales (coñecidas);Outras quemaduras nas obras forestales (coñecidas);3;ES_203;Forest works
+230;Altres cremes en treballs forestals (conegudes);Altres cremes en treballs forestals (conegudes);4;ES_203;Forest works
+230;Altres cremes en treballs forestals (conegudes);Altres cremes en treballs forestals (conegudes);5;ES_203;Forest works
+231;Quemas de eliminación de restos forestales;Quemas de eliminación de restos forestales;0;ES_203;Forest works
+231;Cremes deliminació de restes forestals;Cremes deliminació de restes forestals;1;ES_203;Forest works
+231;Basoko hondakinak ezabatzea;Basoko hondakinak ezabatzea;2;ES_203;Forest works
+231;Queima de eliminación de residuos;Queima de eliminación de residuos;3;ES_203;Forest works
+231;Cremes deliminació de restes forestals;Cremes deliminació de restes forestals;4;ES_203;Forest works
+231;Cremes deliminació de restes forestals;Cremes deliminació de restes forestals;5;ES_203;Forest works
+240;Otros tipos de hogueras (conocidas);Otros tipos de hogueras (conocidas);0;ES_240;Campfires
+240;Altres tipus de fogueres (conegudes);Altres tipus de fogueres (conegudes);1;ES_240;Campfires
+240;Beste mota batzuk suak (ezagunak);Beste mota batzuk suak (ezagunak);2;ES_240;Campfires
+240;Outros tipos de hogueras (coñecidas);Outros tipos de hogueras (coñecidas);3;ES_240;Campfires
+240;Altres tipus de fogueres (conegudes);Altres tipus de fogueres (conegudes);4;ES_240;Campfires
+240;Altres tipus de fogueres (conegudes);Altres tipus de fogueres (conegudes);5;ES_240;Campfires
+241;Hogueras;Hogueras;0;ES_240;Campfires
+241;Fogueres;Fogueres;1;ES_240;Campfires
+241;Suak;Suak;2;ES_240;Campfires
+241;Fogueiras;Fogueiras;3;ES_240;Campfires
+241;Fogueres;Fogueres;4;ES_240;Campfires
+241;Fogueres;Fogueres;5;ES_240;Campfires
+242;Barbacoas fijas;Barbacoas fijas;0;ES_240;Campfires
+242;Barbacoes fixes;Barbacoes fixes;1;ES_240;Campfires
+242;Barbakoak errea;Barbakoak errea;2;ES_240;Campfires
+242;Barbacoas fixadas;Barbacoas fixadas;3;ES_240;Campfires
+242;Barbacoes fixes;Barbacoes fixes;4;ES_240;Campfires
+242;Barbacoes fixes;Barbacoes fixes;5;ES_240;Campfires
+243;Hogueras y barbacoas -Elementos portátiles (hornilllos, etc.);Hogueras y barbacoas - Elementos portátiles (hornilllos, etc.);0;ES_240;Campfires
+243;Fogueres i barbacoes Elements portàtils (hornilllos, etc.);Elementos portátiles (hornilllos, etc.);1;ES_240;Campfires
+243;Hozkailuak eta barbakoak - Elementu eramangarriak (erregailuak, etab.);Hozkailuak eta barbakoak - Elementu eramangarriak (erregailuak, etab.);2;ES_240;Campfires
+243;Fogatas e grellas - Elementos portátiles (queimadores, etc.);Fogatas e grellas - Elementos portátiles (queimadores, etc.);3;ES_240;Campfires
+243;Fogueres i barbacoes Elements portàtils (hornilllos, etc.);Elementos portátiles (hornilllos, etc.);4;ES_240;Campfires
+243;Fogueres i barbacoes Elements portàtils (hornilllos, etc.);Elementos portátiles (hornilllos, etc.);5;ES_240;Campfires
+244;Vertidos de brasas y/o cenizas;Vertidos de brasas y/o cenizas;0;ES_240;Campfires
+244;Abocaments de brases i / o cendres;Abocaments de brases i / o cendres;1;ES_240;Campfires
+244;Baleak eta / edo errautsak igortzea;Baleak eta / edo errautsak igortzea;2;ES_240;Campfires
+244;Emisións de brasas e / ou cinzas;Emisións de brasas e / ou cinzas;3;ES_240;Campfires
+244;Abocaments de brases i / o cendres;Abocaments de brases i / o cendres;4;ES_240;Campfires
+244;Abocaments de brases i / o cendres;Abocaments de brases i / o cendres;5;ES_240;Campfires
+250;Fumadores;Fumadores;0;ES_250;Smokers
+250;Fumadors;Fumadors;1;ES_250;Smokers
+250;Erretzaileak;Erretzaileak;2;ES_250;Smokers
+250;Fumadores;Fumadores;3;ES_250;Smokers
+250;Fumadors;Fumadors;4;ES_250;Smokers
+250;Fumadors;Fumadors;5;ES_250;Smokers
+260;Otros incendios  por quema de basuras (conocidas);Otros incendios  por quema de basuras (conocidas);0;ES_260;Rubbish burning
+260;Altres incendis per crema descombraries (conegudes);Altres incendis per crema descombraries (conegudes);1;ES_260;Rubbish burning
+260;Beste suteak zaborra erretzea (ezaguna);Beste suteak zaborra erretzea (ezaguna);2;ES_260;Rubbish burning
+260;Outros incendios pola queima de lixo (coñecido);Outros incendios pola queima de lixo (coñecido);3;ES_260;Rubbish burning
+260;Altres incendis per crema descombraries (conegudes);Altres incendis per crema descombraries (conegudes);4;ES_260;Rubbish burning
+260;Altres incendis per crema descombraries (conegudes);Altres incendis per crema descombraries (conegudes);5;ES_260;Rubbish burning
+261;Punto ilegal de vertidos/ Zona de acumulación de basuras;Punto ilegal de vertidos/ Zona de acumulación de basuras;0;ES_260;Rubbish burning
+261;Punt il·legal dabocaments / Zona dacumulació descombraries;Punt il·legal dabocaments / Zona dacumulació descombraries;1;ES_260;Rubbish burning
+261;Isurketa puntu ilegala / Hondakinen metaketa gunea;Isurketa puntu ilegala / Hondakinen metaketa gunea;2;ES_260;Rubbish burning
+261;Punto de derramamento ilegal / área de acumulación de lixo;Punto de derramamento ilegal / área de acumulación de lixo;3;ES_260;Rubbish burning
+261;Punt il·legal dabocaments / Zona dacumulació descombraries;Punt il·legal dabocaments / Zona dacumulació descombraries;4;ES_260;Rubbish burning
+261;Punt il·legal dabocaments / Zona dacumulació descombraries;Punt il·legal dabocaments / Zona dacumulació descombraries;5;ES_260;Rubbish burning
+262;Quema puntual de basura;Quema puntual de basura;0;ES_260;Rubbish burning
+262;Crema puntual descombraries;Crema puntual descombraries;1;ES_260;Rubbish burning
+262;Zaborra erretzea puntuala;Zaborra erretzea puntuala;2;ES_260;Rubbish burning
+262; Queima puntual de lixo; Queima puntual de lixo;3;ES_260;Rubbish burning
+262;Crema puntual descombraries;Crema puntual descombraries;4;ES_260;Rubbish burning
+262;Crema puntual descombraries;Crema puntual descombraries;5;ES_260;Rubbish burning
+270;Escape de vertedero;Escape de vertedero;0;ES_270;Escape from a garbage dump
+270;Fuites dabocador;Fuites dabocador;1;ES_270;Escape from a garbage dump
+270;Zabortegi-ihesbidea;Zabortegi-ihesbidea;2;ES_270;Escape from a garbage dump
+270;Escapes de vertedoiro;Escapes de vertedoiro;3;ES_270;Escape from a garbage dump
+270;Fuites dabocador;Fuites dabocador;4;ES_270;Escape from a garbage dump
+270;Escapaments dabocador;Escapaments dabocador;5;ES_270;Escape from a garbage dump
+280;Otras quemas de limpieza;Otras quemas de limpieza (sin especificar);0;ES_280;Bush burning
+280;Altres cremes de neteja;Altres cremes de neteja (sense especificar);1;ES_280;Bush burning
+280;Beste garbiketa erredurak;Beste garbiketa erredurak (zehaztugabea);2;ES_280;Bush burning
+280;Outras queimaduras de limpeza;Outras queimaduras de limpeza (sen especificar);3;ES_280;Bush burning
+280;Altres cremes de neteja;Altres cremes de neteja (sense especificar);4;ES_280;Bush burning
+280;Altres cremes de neteja;Altres cremes de neteja (sense especificar);5;ES_280;Bush burning
+281;Limpieza de vegetación próxima a edificaciones;Limpieza de vegetación próxima a edificaciones;0;ES_281;Bush burning near to buildings
+281;Neteja de vegetació pròxima a edificacions;Neteja de vegetació pròxima a edificacions;1;ES_281;Bush burning near to buildings
+281;Eraikinetatik hurbileko landaretza garbitzea;Eraikinetatik hurbileko landaretza garbitzea;2;ES_281;Bush burning near to buildings
+281;Vegetación de limpeza preto dos edificios;Vegetación de limpeza preto dos edificios;3;ES_281;Bush burning near to buildings
+281;Neteja de vegetació pròxima a edificacions;Neteja de vegetació pròxima a edificacions;4;ES_281;Bush burning near to buildings
+281;Neteja de vegetació pròxima a edificacions;Neteja de vegetació pròxima a edificacions;5;ES_281;Bush burning near to buildings
+282;Limpieza de accesos (pistas, caminos , sendas, etc);Limpieza de accesos (pistas, caminos , sendas, etc);0;ES_282;Bush burning with the purpose of clearing tracks and paths
+282;Neteja daccessos (pistes, camins, sendes, etc);Neteja daccessos (pistes, camins, sendes, etc);1;ES_282;Bush burning with the purpose of clearing tracks and paths
+282;Sarbideen garbiketa (ibilbideak, errepideak, bideak, etab.);Sarbideen garbiketa (ibilbideak, errepideak, bideak, etab.);2;ES_282;Bush burning with the purpose of clearing tracks and paths
+282;Limpeza de accesos (vías, estradas, camiños, etc.);Limpeza de accesos (vías, estradas, camiños, etc.);3;ES_282;Bush burning with the purpose of clearing tracks and paths
+282;Neteja daccessos (pistes, camins, sendes, etc);Neteja daccessos (pistes, camins, sendes, etc);4;ES_282;Bush burning with the purpose of clearing tracks and paths
+282;Neteja daccessos (pistes, camins, sendes, etc);Neteja daccessos (pistes, camins, sendes, etc);5;ES_282;Bush burning with the purpose of clearing tracks and paths
+283;Limpieza de vegetación para control de animales nocivos (plagas, conejos, etc.);Limpieza de vegetación para control de animales nocivos (plagas, conejos, etc.);0;ES_283;Bush burning to eliminate refuges of harmful fauna
+283;Neteja de vegetació per a control danimals nocius (plagues, conills, etc.);Neteja de vegetació per a control danimals nocius (plagues, conills, etc.);1;ES_283;Bush burning to eliminate refuges of harmful fauna
+283;Limpieza de vegetación para control de animales nocivos (plagas, conejos, etc.);Limpieza de vegetación para control de animales nocivos (plagas, conejos, etc.);2;ES_283;Bush burning to eliminate refuges of harmful fauna
+283;Limpeza da vexetación para o control de animais nocivos (pragas, coellos, etc.);Limpeza da vexetación para o control de animais nocivos (pragas, coellos, etc.);3;ES_283;Bush burning to eliminate refuges of harmful fauna
+283;Neteja de vegetació per a control danimals nocius (plagues, conills, etc.);Neteja de vegetació per a control danimals nocius (plagues, conills, etc.);4;ES_283;Bush burning to eliminate refuges of harmful fauna
+283;Neteja de vegetació per a control danimals nocius (plagues, conills, etc.);Neteja de vegetació per a control danimals nocius (plagues, conills, etc.);5;ES_283;Bush burning to eliminate refuges of harmful fauna
+284;Limpieza de lindes y bordes de finca;Limpieza de lindes y bordes de finca;0;ES_213;Fires on the boundaries of farms or plots
+284;Neteja de límits i vores de finca;Neteja de límits i vores de finca;1;ES_213;Fires on the boundaries of farms or plots
+284;Baserriko ertzak eta mugak garbitu;Baserriko ertzak eta mugak garbitu;2;ES_213;Fires on the boundaries of farms or plots
+284;Limpar bordos e bordos da facenda;Limpar bordos e bordos da facenda;3;ES_213;Fires on the boundaries of farms or plots
+284;Neteja de límits i vores de finca;Neteja de límits i vores de finca;4;ES_213;Fires on the boundaries of farms or plots
+284;Neteja de límits i vores de finca;Neteja de límits i vores de finca;5;ES_213;Fires on the boundaries of farms or plots
+285;Limpiezas de riberas y cauces (Cañar, etc);Limpiezas de riberas y cauces (Cañar, etc);0;ES_215;Other fires set for agricultural purposes
+285;Neteges de riberes i lleres (Cañar, etc);Neteges de riberes i lleres (Cañar, etc);1;ES_215;Other fires set for agricultural purposes
+285;Banku eta kanalen garbiketa (Cañar, etab.);Banku eta kanalen garbiketa (Cañar, etab.);2;ES_215;Other fires set for agricultural purposes
+285;Limpeza de bancos e canles (Cañar, etc.);Limpeza de bancos e canles (Cañar, etc.);3;ES_215;Other fires set for agricultural purposes
+285;Neteges de riberes i lleres (Cañar, etc);Neteges de riberes i lleres (Cañar, etc);4;ES_215;Other fires set for agricultural purposes
+285;Neteges de riberes i lleres (Cañar, etc);Neteges de riberes i lleres (Cañar, etc);5;ES_215;Other fires set for agricultural purposes
+286;Limpieza de infraestructuras de riego (acequias,cavas, etc.);Limpieza de infraestructuras de riego (acequias,cavas, etc.);0;ES_214;Fires in the edges of irrigation ditches
+286;Neteja dinfraestructures de reg (sèquies, caves, etc.);Neteja dinfraestructures de reg (sèquies, caves, etc.);1;ES_214;Fires in the edges of irrigation ditches
+286;Ureztapen azpiegituren garbiketa (garbiketak, upategiak, etab.);Ureztapen azpiegituren garbiketa (garbiketak, upategiak, etab.);2;ES_214;Fires in the edges of irrigation ditches
+286;Limpeza das infraestruturas de rega (gabias, bodegas, etc.);Limpeza das infraestruturas de rega (gabias, bodegas, etc.);3;ES_214;Fires in the edges of irrigation ditches
+286;Neteja dinfraestructures de reg (sèquies, caves, etc.);Neteja dinfraestructures de reg (sèquies, caves, etc.);4;ES_214;Fires in the edges of irrigation ditches
+286;Neteja dinfraestructures de reg (sèquies, caves, etc.);Neteja dinfraestructures de reg (sèquies, caves, etc.);5;ES_214;Fires in the edges of irrigation ditches
+290;Otras causas no intencionales;Otras causas no intencionales (sin especificar);0;ES_290;Other negligence
+290;Altres causes no intencionals;Altres causes no intencionals (sense determinar);1;ES_290;Other negligence
+290;Beste nahigabeko arrazoiak;Beste nahigabeko arrazoiak (zehaztugabea);2;ES_290;Other negligence
+290;Outras causas non intencionadas;Outras causas non intencionadas (indeterminadas);3;ES_290;Other negligence
+290;Altres causes no intencionals;Altres causes no intencionals (sense determinar);4;ES_290;Other negligence
+290;Altres causes no intencionals;Altres causes no intencionals (sense determinar);5;ES_290;Other negligence
+291;Apicultura;Apicultura;0;ES_291; Apiculture
+291;Apicultura;Apicultura;1;ES_291; Apiculture
+291;Erlezaintza;Erlezaintza;2;ES_291; Apiculture
+291;Apicultura;Apicultura;3;ES_291; Apiculture
+291;Apicultura;Apicultura;4;ES_291; Apiculture
+291;Apicultura;Apicultura;5;ES_291; Apiculture
+292;Fuegos artificiales (petardos, cohetes,etc.);Fuegos artificiales (petardos, cohetes,etc.);0;ES_292;Fire works
+292;Focs artificials (petards, coets, etc..);Focs artificials (petards, coets, etc..);1;ES_292;Fire works
+292;Su artifizialak (suziriak, koheteak, etab.);Su artifizialak (suziriak, koheteak, etab.);2;ES_292;Fire works
+292;Fogos de artificio (foguetes, foguetes, etc.);Fogos de artificio (foguetes, foguetes, etc.);3;ES_292;Fire works
+292;Focs artificials (petards, coets, etc..);Focs artificials (petards, coets, etc..);4;ES_292;Fire works
+292;Focs artificials (petards, coets, etc..);Focs artificials (petards, coets, etc..);5;ES_292;Fire works
+293;Globos aerostáticos;Globos aerostáticos;0;ES_293;Hot air ballon
+293;globus aerostàtics;globus aerostàtics;1;ES_293;Hot air ballon
+293;Hot air globoak;Hot air globoak;2;ES_293;Hot air ballon
+293;Globos de aire quente;Globos de aire quente;3;ES_293;Hot air ballon
+293;globus aerostàtics;globus aerostàtics;4;ES_293;Hot air ballon
+293;globus aerostàtics;globus aerostàtics;5;ES_293;Hot air ballon
+294;Gamberradas, juegos de niños (quema de pelusa de chopo, etc);Gamberradas, juegos de niños (quema de pelusa de chopo, etc);0;ES_294;Kid games
+294;Gamberrades, jocs de nens (crema de borrissol de pollancre, etc.);Gamberrades, jocs de nens (crema de borrissol de pollancre, etc.);1;ES_294;Kid games
+294;Gamberradas, haurrentzako jolasak (poplar fluff erretzea, etab.);Gamberradas, haurrentzako jolasak (poplar fluff erretzea, etab.);2;ES_294;Kid games
+294;Gamberradas, xogos infantís (queimadura de peluca de álamo, etc.);Gamberradas, xogos infantís (queimadura de peluca de álamo, etc.);3;ES_294;Kid games
+294;Gamberrades, jocs de nens (crema de borrissol de pollancre, etc.);Gamberrades, jocs de nens (crema de borrissol de pollancre, etc.);4;ES_294;Kid games
+294;Gamberrades, jocs de nens (crema de borrissol de pollancre, etc.);Gamberrades, jocs de nens (crema de borrissol de pollancre, etc.);5;ES_294;Kid games
+295;Quema de restos de poda o jardinería en urbanizaciones;Quema de restos de poda o jardinería en urbanizaciones;0;ES_295;Burning of pruning rests from gardens
+295;Crema de restes de poda o jardineria en urbanitzacions;Crema de restes de poda o jardineria en urbanitzacions;1;ES_295;Burning of pruning rests from gardens
+295;Inausketak edo urbanizazioetan lorategiak erretzea;Inausketak edo urbanizazioetan lorategiak erretzea;2;ES_295;Burning of pruning rests from gardens
+295;Queima de restos de poda ou xardinería en urbanizacións;Queima de restos de poda ou xardinería en urbanizacións;3;ES_295;Burning of pruning rests from gardens
+295;Crema de restes de poda o jardineria en urbanitzacions;Crema de restes de poda o jardineria en urbanitzacions;4;ES_295;Burning of pruning rests from gardens
+295;Crema de restes de poda o jardineria en urbanitzacions;Crema de restes de poda o jardineria en urbanitzacions;5;ES_295;Burning of pruning rests from gardens
+296;Empleo de explosivos;Empleo de explosivos;0;ES_296;Fires due other negligence cause
+296; Ocupació dexplosius;Ocupació dexplosius;1;ES_296;Fires due other negligence cause
+296;Lehergailuak erabiltzea;Lehergailuak erabiltzea;2;ES_296;Fires due other negligence cause
+296;Uso de explosivos;Uso de explosivos;3;ES_296;Fires due other negligence cause
+296;Ocupació dexplosius;Ocupació dexplosius;4;ES_296;Fires due other negligence cause
+296;Ocupació dexplosius;Ocupació dexplosius;5;ES_296;Fires due other negligence cause
+297;Incendios en infraestructuras (edificios, naves, mobiliario urbano, etc);Incendios en infraestructuras (edificios, naves, mobiliario urbano, etc);0;ES_296;Fires due other negligence cause
+297;Incendis en infraestructures (edificis, naus, mobiliari urbà, etc);Incendis en infraestructures (edificis, naus, mobiliari urbà, etc);1;ES_296;Fires due other negligence cause
+297;Azpiegituretan (eraikinak, eraikinak, kale-altzariak, eta abar);Azpiegituretan (eraikinak, eraikinak, kale-altzariak, eta abar);2;ES_296;Fires due other negligence cause
+297;Incendios en infraestruturas (edificios, edificios, mobiliario urbano, etc.);Incendios en infraestruturas (edificios, edificios, mobiliario urbano, etc.);3;ES_296;Fires due other negligence cause
+297;Incendis en infraestructures (edificis, naus, mobiliari urbà, etc);Incendis en infraestructures (edificis, naus, mobiliari urbà, etc);4;ES_296;Fires due other negligence cause
+297;Incendis en infraestructures (edificis, naus, mobiliari urbà, etc);Incendis en infraestructures (edificis, naus, mobiliari urbà, etc);5;ES_296;Fires due other negligence cause
+298;Herraduras de caballo;Herraduras de caballo;0;ES_296;Fires due other negligence cause
+298;Ferradures de cavall;Ferradures de cavall;1;ES_296;Fires due other negligence cause
+298;Horse Horseshoes;Horse Horseshoes;2;ES_296;Fires due other negligence cause
+298;Ferradura de cabalo;Ferradura de cabalo;3;ES_296;Fires due other negligence cause
+298;Ferradures de cavall;Ferradures de cavall;4;ES_296;Fires due other negligence cause
+298;Ferradures de cavall;Ferradures de cavall;5;ES_296;Fires due other negligence cause
+299;Ritos pseudoreligiosos, satanismo, etc;Ritos pseudoreligiosos, satanismo, etc;0;ES_296;Fires due other negligence cause
+299;Ritus pseudoreligiosos, satanisme, etc.;Ritus pseudoreligiosos, satanisme, etc.;1;ES_296;Fires due other negligence cause
+299;Errito pseudo-erlijiosoak, Satanismoa, etab.;Errito pseudo-erlijiosoak, Satanismoa, etab.;2;ES_296;Fires due other negligence cause
+299;Ritos pseudo-relixiosos, Satanismo, etc.;Ritos pseudo-relixiosos, Satanismo, etc.;3;ES_296;Fires due other negligence cause
+299;Ritus pseudoreligiosos, satanisme, etc.;Ritus pseudoreligiosos, satanisme, etc.;4;ES_296;Fires due other negligence cause
+299;Ritus pseudoreligiosos, satanisme, etc.;Ritus pseudoreligiosos, satanisme, etc.;5;ES_296;Fires due other negligence cause
+300;Quema de cables para extraer cobre;Quema de cables para extraer cobre;0;ES_296;Fires due other negligence cause
+300;Crema de cables per extreure coure;Crema de cables per extreure coure;1;ES_296;Fires due other negligence cause
+300;Kobrea erauzteko kableak erauzteko;Kobrea erauzteko kableak erauzteko;2;ES_296;Fires due other negligence cause
+300;Queima de cables para extraer cobre;Queima de cables para extraer cobre;3;ES_296;Fires due other negligence cause
+300;Crema de cables per extreure coure;Crema de cables per extreure coure;4;ES_296;Fires due other negligence cause
+300;Crema de cables per extreure coure;Crema de cables per extreure coure;5;ES_296;Fires due other negligence cause
+301;Pavesas de incendios próximos;Pavesas de incendios próximos;0;ES_296;Fires due other negligence cause
+301;Pavesas dincendis propers;Pavesas dincendis propers;1;ES_296;Fires due other negligence cause
+301;Sutondoak datoz;Sutondoak datoz;2;ES_296;Fires due other negligence cause
+301;Abrigo de lume chegando;Abrigo de lume chegando;3;ES_296;Fires due other negligence cause
+301;Pavesas dincendis propers;Pavesas dincendis propers;4;ES_296;Fires due other negligence cause
+301;Pavesas dincendis propers;Pavesas dincendis propers;5;ES_296;Fires due other negligence cause
+302;Caza (cartuchos, cañones de redes, etc);Caza (cartuchos, cañones de redes, etc);0; ; 
+302;Caça (cartutxos, canons de xarxes, etc);Caça (cartutxos, canons de xarxes, etc);1; ; 
+302;Ehiza (kartutxoak, kanoi garbiak ...);Ehiza (kartutxoak, kanoi garbiak ...);2; ; 
+302;Caza (cartuchos, canóns netos, etc.);Caza (cartuchos, canóns netos, etc.);3; ; 
+302;Caça (cartutxos, canons de xarxes, etc);Caça (cartutxos, canons de xarxes, etc);4; ; 
+302;Caça (cartutxos, canons de xarxes, etc);Caça (cartutxos, canons de xarxes, etc);5; ; 
+303;Escape de chispas desde chimeneas;Escape de chispas desde chimeneas;0; ; 
+303;Fuita despurnes des xemeneies;Fuita despurnes des xemeneies;1; ; 
+303;Txinpartak tximinietatik ihes egiten dute;Txinpartak tximinietatik ihes egiten dute;2; ; 
+303;As chispas escapan das chemineas;As chispas escapan das chemineas;3; ; 
+303;Fuita despurnes des xemeneies;Fuita despurnes des xemeneies;4; ; 
+303;Fuita despurnes des xemeneies;Fuita despurnes des xemeneies;5; ; 
+310;Otras causas por ferrocarril;Otras causas por ferrocarril (sin especificar);0;ES_310;Railway
+310;Outras causas por ferrocarril;Outras causas por ferrocarril (sen especificar);1;ES_310;Railway
+310;Beste arrazoi batzuk trenez;Beste arrazoi batzuk trenez (zehaztu gabe);2;ES_310;Railway
+310;Outras causas por ferrocarril;Outras causas por ferrocarril (sen especificar);3;ES_310;Railway
+310;Outras causas por ferrocarril;Outras causas por ferrocarril (sen especificar);4;ES_310;Railway
+310;Outras causas por ferrocarril;Outras causas por ferrocarril (sen especificar);5;ES_310;Railway
+311;Ferrocarril (provocado por el convoy);Ferrocarril (provocado por el convoy);0;ES_310;Railway
+311;Ferrocarril (provocat pel comboi);Ferrocarril (provocat pel comboi);1;ES_310;Railway
+311;Trenbidea (konboiak eragindakoa);Trenbidea (konboiak eragindakoa);2;ES_310;Railway
+311;Ferroviario (causado polo convoy);Ferroviario (causado polo convoy);3;ES_310;Railway
+311;Ferrocarril (provocat pel comboi);Ferrocarril (provocat pel comboi);4;ES_310;Railway
+311;Ferrocarril (provocat pel comboi);Ferrocarril (provocat pel comboi);5;ES_310;Railway
+312;Ferrocarril (Catenaria);Catenaria;0;ES_310;Railway
+312;Catenaria;Catenaria;1;ES_310;Railway
+312;Trenbidea;Trenbidea;2;ES_310;Railway
+312;Catenaria;Catenaria;3;ES_310;Railway
+312;Catenaria;Catenaria;4;ES_310;Railway
+312;Catenaria;Catenaria;5;ES_310;Railway
+320;Otras causas por líneas eléctricas;Otras causas por líneas eléctricas (sin especificar);0;ES_320;Electric lines
+320;Altres causes per línies elèctriques;Altres causes per línies elèctriques (sense especificar);1;ES_320;Electric lines
+320;Beste arrazoi batzuek energia lerroek;Beste arrazoi batzuek energia lerroek (zehaztugabea);2;ES_320;Electric lines
+320;Outras causas por liñas de enerxía;Outras causas por liñas de enerxía (sen especificar);3;ES_320;Electric lines
+320;Altres causes per línies elèctriques;Altres causes per línies elèctriques (sense especificar);4;ES_320;Electric lines
+320;Altres causes per línies elèctriques;Altres causes per línies elèctriques (sense especificar);5;ES_320;Electric lines
+321;Caída de torreta;Caída de torreta;0;ES_320;Electric lines
+321;Caiguda de torreta;Caiguda de torreta;1;ES_320;Electric lines
+321;Turret erori;Turret erori;2;ES_320;Electric lines
+321;Caída da torre;Caída da torre;3;ES_320;Electric lines
+321;Caiguda de torreta;Caiguda de torreta;4;ES_320;Electric lines
+321;Caiguda de torreta;Caiguda de torreta;5;ES_320;Electric lines
+322;Rotura de tendido eléctrico;Rotura de tendido eléctrico;0;ES_320;Electric lines
+322;Ruptura de línia elèctrica;Ruptura de línia elèctrica;1;ES_320;Electric lines
+322;Elektrizitatearen jaitsiera;Elektrizitatearen jaitsiera;2;ES_320;Electric lines
+322;Pausa de electricidade;Pausa de electricidade;3;ES_320;Electric lines
+322;Ruptura de línia elèctrica;Ruptura de línia elèctrica;4;ES_320;Electric lines
+322;Ruptura de línia elèctrica;Ruptura de línia elèctrica;5;ES_320;Electric lines
+323;Impactos o contactos con fauna;Impactos o contactos con fauna;0;ES_320;Electric lines
+323;Impactes o contactes amb fauna;Impactes o contactes amb fauna;1;ES_320;Electric lines
+323;Faunaren eraginak edo kontaktuak;Faunaren eraginak edo kontaktuak;2;ES_320;Electric lines
+323;Impactos ou contactos coa fauna;Impactos ou contactos coa fauna;3;ES_320;Electric lines
+323;Impactes o contactes amb fauna;Impactes o contactes amb fauna;4;ES_320;Electric lines
+323;Impactes o contactes amb fauna;Impactes o contactes amb fauna;5;ES_320;Electric lines
+324;Impactos o contactos con vegetación;Impactos o contactos con vegetación;0;ES_320;Electric lines
+324;Impactes o contactes amb vegetació;Impactes o contactes amb vegetació;1;ES_320;Electric lines
+324;Landaretza duten eraginak edo kontaktuak;Landaretza duten eraginak edo kontaktuak;2;ES_320;Electric lines
+324;Impactos ou contactos coa vexetación;Impactos ou contactos coa vexetación;3;ES_320;Electric lines
+324;Impactes o contactes amb vegetació;Impactes o contactes amb vegetació;4;ES_320;Electric lines
+324;Impactes o contactes amb vegetació;Impactes o contactes amb vegetació;5;ES_320;Electric lines
+325;Impactos o contactos con otros elementos (vehículos, personas, etc);Impactos o contactos con otros elementos (vehículos, personas,etc);0;ES_320;Electric lines
+325;Impactes o contactes amb altres elements (vehicles, persones, etc);Impactes o contactes amb altres elements (vehicles, persones, etc);1;ES_320;Electric lines
+325;Eraginak edo beste elementu batzuekin kontaktuak (ibilgailuak, pertsonak, etk);Eraginak edo beste elementu batzuekin kontaktuak (ibilgailuak, pertsonak, etk);2;ES_320;Electric lines
+325;Impactos ou contactos con outros elementos (vehículos, persoas, etc);Impactos ou contactos con outros elementos (vehículos, persoas, etc);3;ES_320;Electric lines
+325;Impactes o contactes amb altres elements (vehicles, persones, etc);Impactes o contactes amb altres elements (vehicles, persones, etc);4;ES_320;Electric lines
+325;Impactes o contactes amb altres elements (vehicles, persones, etc);Impactes o contactes amb altres elements (vehicles, persones, etc);5;ES_320;Electric lines
+326;Transformadores de la red eléctrica;Transformadores de la red eléctrica;0;ES_320;Electric lines
+326;Transformadors de la xarxa elèctrica;Transformadors de la xarxa elèctrica;1;ES_320;Electric lines
+326;Sare elektrikoaren transformadoreak;Sare elektrikoaren transformadoreak;2;ES_320;Electric lines
+326;Transformadores da rede eléctrica;Transformadores da rede eléctrica;3;ES_320;Electric lines
+326;Transformadors de la xarxa elèctrica;Transformadors de la xarxa elèctrica;4;ES_320;Electric lines
+326;Transformadors de la xarxa elèctrica;Transformadors de la xarxa elèctrica;5;ES_320;Electric lines
+327;Aerogenerador;Aerogenerador;0;ES_320;Electric lines
+327;Aerogenerador;Aerogenerador;1;ES_320;Electric lines
+327;Aerosorgailu;Aerosorgailu;2;ES_320;Electric lines
+327;Turbina de vento;Turbina de vento;3;ES_320;Electric lines
+327;Aerogenerador;Aerogenerador;4;ES_320;Electric lines
+327;Aerogenerador;Aerogenerador;5;ES_320;Electric lines
+328;Huerto solar/placas solares;Huerto solar/placas solares;0;ES_320;Electric lines
+328;Huerto solar/placas solares;Huerto solar/placas solares;1;ES_320;Electric lines
+328;Huerto solar/placas solares;Huerto solar/placas solares;2;ES_320;Electric lines
+328;Huerto solar/placas solares;Huerto solar/placas solares;3;ES_320;Electric lines
+328;Huerto solar/placas solares;Huerto solar/placas solares;4;ES_320;Electric lines
+328;Huerto solar/placas solares;Huerto solar/placas solares;5;ES_320;Electric lines
+330;Otro tipo de motores o maquinaria (sin especificar);Mot. y Maq. (s.e.);0;ES_330;Engines and machinery
+330;Motors i maquines (sense especificar);Otro tipo de motores o maquinaria (sin especificar);1;ES_330;Engines and machinery
+330;Motoreak eta makinak (zehaztu gabe);Motoreak eta makinak (z.g.);2;ES_330;Engines and machinery
+330;Motores e máquinas(sen especificar);Mot. e Maq. (s.e);3;ES_330;Engines and machinery
+330;Motors i maquines (sense especificar);Mot.i Maq. (s.e);4;ES_330;Engines and machinery
+330;Motors i maquines (sense especificar);Mot.i Maq. (s.e);5;ES_330;Engines and machinery
+331;Maquinaria (cosechadoras);Maquinaria (cosechadoras);0;ES_331;Harvesters
+331;Maquines (recol·lectores);Maq. (Recol·lectores);1;ES_331;Harvesters
+331;Makinak (uztamakina);Makinak (uztamakina);2;ES_331;Harvesters
+331;Máquinas (mocolleitadoras);Maq. (Mocolleitadoras);3;ES_331;Harvesters
+331;Maquines (recol·lectores);Maq. (Recol·lectores);4;ES_331;Harvesters
+331;Maquines (recol·lectores);Maquinaria (Maq. (Recol·lectores));5;ES_331;Harvesters
+332;Maquinaria (Empacadoras);Maquinaria (Empacadoras);0;ES_330;Engines and machinery
+332;Maquinària (Empacadores);Maquinària (Empacadores);1;ES_330;Engines and machinery
+332;Makineria (Balers);Makineria (Balers);2;ES_330;Engines and machinery
+332;Máquinas (empacadoras);Máquinas (empacadoras);3;ES_330;Engines and machinery
+332;Maquinària (Empacadores);Maquinària (Empacadores);4;ES_330;Engines and machinery
+332;Maquinària (Empacadores);Maquinària (Empacadores);5;ES_330;Engines and machinery
+333;Maquinaria (autocargador/cosechadora forestal);Maquinaria (autocargador/cosech. forestal);0;ES_330;Engines and machinery
+333;Maquinaria (autocargador/cosechadora forestal);Maquinaria (autocargador/cosech. forestal);1;ES_330;Engines and machinery
+333;Maquinaria (autocargador/cosechadora forestal);Maquinaria (autocargador/cosech. forestal);2;ES_330;Engines and machinery
+333;Maquinaria (autocargador/cosechadora forestal);Maquinaria (autocargador/cosech. forestal);3;ES_330;Engines and machinery
+333;Maquinaria (autocargador/cosechadora forestal);Maquinaria (autocargador/cosech. forestal);4;ES_330;Engines and machinery
+333;Maquinaria (autocargador/cosechadora forestal);Maquinaria (autocargador/cosech. forestal);5;ES_330;Engines and machinery
+334;Escapes de vehículos (ligeros y pesados);Escapes de vehículos (ligeros y pesados);0;ES_332;Light or heavy weight vehicles
+334;Fuites de vehicles (lleugers i pesats);Fuites de vehicles (lleugers i pesats);1;ES_332;Light or heavy weight vehicles
+334;Ibilgailuen ihesak (argia eta astuna);Ibilgailuen ihesak (argia eta astuna);2;ES_332;Light or heavy weight vehicles
+334;Exhausts de vehículos (liviáns e pesados);Exhausts de vehículos (liviáns e pesados);3;ES_332;Light or heavy weight vehicles
+334;Fuites de vehicles (lleugers i pesats);Fuites de vehicles (lleugers i pesats);4;ES_332;Light or heavy weight vehicles
+334;Fuites de vehicles (lleugers i pesats);Fuites de vehicles (lleugers i pesats);5;ES_332;Light or heavy weight vehicles
+335;Quema intencionada de vehículos (delincuencia, vandalismo);Quema intencionada de vehículos (delincuencia, vandalismo);0;ES_330;Engines and machinery
+335;Crema intencionada de vehicles (delinqüència, vandalisme);Crema intencionada de vehicles (delinqüència, vandalisme);1;ES_330;Engines and machinery
+335;Ibilgailuen erretzea gogorra (krimena, bandalismoa);Ibilgailuen erretzea gogorra (krimena, bandalismoa);2;ES_330;Engines and machinery
+335;Queimadura intencionada de vehículos (crime, vandalismo);Queimadura intencionada de vehículos (crime, vandalismo);3;ES_330;Engines and machinery
+335;Crema intencionada de vehicles (delinqüència, vandalisme);Crema intencionada de vehicles (delinqüència, vandalisme);4;ES_330;Engines and machinery
+335;Crema intencionada de vehicles (delinqüència, vandalisme);Crema intencionada de vehicles (delinqüència, vandalisme);5;ES_330;Engines and machinery
+336;Accidentes de vehículos (incendios fortuitos, accidentes de tráfico, etc.);Accidentes de vehículos (incendios fortuitos, accidentes de tráfico, etc.);0;ES_333;Vehicle accident
+336;Accidents de vehicles (incendis fortuïts, accidents de trànsit, etc.);Accidents de vehicles (incendis fortuïts, accidents de trànsit, etc.);1;ES_333;Vehicle accident
+336;Ibilgailuen istripuak (ausazko sutea, trafiko istripuak, etab.);Ibilgailuen istripuak (ausazko sutea, trafiko istripuak, etab.);2;ES_333;Vehicle accident
+336;Accidentes de vehículos (incendios aleatorios, accidentes de tráfico, etc.);Accidentes de vehículos (incendios aleatorios, accidentes de tráfico, etc.);3;ES_333;Vehicle accident
+336;Accidents de vehicles (incendis fortuïts, accidents de trànsit, etc.);Accidents de vehicles (incendis fortuïts, accidents de trànsit, etc.);4;ES_333;Vehicle accident
+336;Accidents de vehicles (incendis fortuïts, accidents de trànsit, etc.);Accidents de vehicles (incendis fortuïts, accidents de trànsit, etc.);5;ES_333;Vehicle accident
+337;Transformadores/generadores eléctricos (portátiles);Transformadores/generadores eléctricos (portátiles);0;ES_330;Engines and machinery
+337;Transformadors / generadors elèctrics (portàtils);Transformadors / generadors elèctrics (portàtils);1;ES_330;Engines and machinery
+337;Transformadore elektrikoak / sorgailuak (eramangarriak);Transformadore elektrikoak / sorgailuak (eramangarriak);2;ES_330;Engines and machinery
+337;Transformadores / xeradores eléctricos (portátiles);Transformadores / xeradores eléctricos (portátiles);3;ES_330;Engines and machinery
+337;Transformadors / generadors elèctrics (portàtils);Transformadors / generadors elèctrics (portàtils);4;ES_330;Engines and machinery
+337;Transformadors / generadors elèctrics (portàtils);Transformadors / generadors elèctrics (portàtils);5;ES_330;Engines and machinery
+340;Otras causas en actividades militares;Otras causas en actividades militares (sin especificar);0;ES_340;Army manoeuvres
+340;Altres causes en activitats militars;Altres causes en activitats militars (sense especificar);1;ES_340;Army manoeuvres
+340;Ekintza militarren beste kausak;Ekintza militarren beste kausak (zehaztugabea);2;ES_340;Army manoeuvres
+340;Outras causas en actividades militares;Outras causas en actividades militares (sen especificar);3;ES_340;Army manoeuvres
+340;Altres causes en activitats militars;Altres causes en activitats militars (sense especificar);4;ES_340;Army manoeuvres
+340;Altres causes en activitats militars;Altres causes en activitats militars (sense especificar);5;ES_340;Army manoeuvres
+341;Desarrollos de maniobras en campos de tiro;Desarrollos de maniobras en campos de tiro;0;ES_340;Army manoeuvres
+341;Desenvolupaments de maniobres en camps de tir;Desenvolupaments de maniobres en camps de tir;1;ES_340;Army manoeuvres
+341;Maniobrak garapenak tiro eremuetan;Maniobrak garapenak tiro eremuetan;2;ES_340;Army manoeuvres
+341;Evolución das manobras nos intervalos de tiro;Evolución das manobras nos intervalos de tiro;3;ES_340;Army manoeuvres
+341;Desenvolupaments de maniobres en camps de tir;Desenvolupaments de maniobres en camps de tir;4;ES_340;Army manoeuvres
+341;Desenvolupaments de maniobres en camps de tir;Desenvolupaments de maniobres en camps de tir;5;ES_340;Army manoeuvres
+342;Explosiones de artefactos abandonados;Explosiones de artefactos abandonados;0;ES_340;Army manoeuvres
+342;Explosions dartefactes;Explosions dartefactes;1;ES_340;Army manoeuvres
+342;Artifacts abandonados de explosiones;Artifacts abandonados de explosiones;2;ES_340;Army manoeuvres
+342;Explosións de artefactos abandonados;Explosións de artefactos abandonados;3;ES_340;Army manoeuvres
+342;Explosions dartefactes;Explosions dartefactes;4;ES_340;Army manoeuvres
+342;Explosions dartefactes;Explosions dartefactes;5;ES_340;Army manoeuvres
+350;Herramientas mecánicas (otras);Herramientas mecánicas (otras);0;ES_330;Engines and machinery
+350;Eines mecàniques (altres);Eines mecàniques (altres);1;ES_330;Engines and machinery
+350;Tresna mekanikoak (beste batzuk);Tresna mekanikoak (beste batzuk);2;ES_330;Engines and machinery
+350;Ferramentas mecánicas (outras);Ferramentas mecánicas (outras);3;ES_330;Engines and machinery
+350;Eines mecàniques (altres);Eines mecàniques (altres);4;ES_330;Engines and machinery
+350;Eines mecàniques (altres);Eines mecàniques (altres);5;ES_330;Engines and machinery
+351;Herramientas mecánicas (Desbrozadoras/astilladora);Herramientas mecánicas (Desbrozadoras);0;ES_330;Engines and machinery
+351;Eines mecàniques (Desbrossadores);Eines mecàniques (Desbrossadores);1;ES_330;Engines and machinery
+351;Tresna mekanikoak (Brotxatzaileak);Tresna mekanikoak (Brotxatzaileak);2;ES_330;Engines and machinery
+351;Ferramentas mecánicas (escobillas);Ferramentas mecánicas (escobillas);3;ES_330;Engines and machinery
+351;Eines mecàniques (Desbrossadores);Eines mecàniques (Desbrossadores);4;ES_330;Engines and machinery
+351;Eines mecàniques (Desbrossadores);Eines mecàniques (Desbrossadores);5;ES_330;Engines and machinery
+352;Herramientas mecánicas (Hiladora);Herramientas mecánicas (Hiladora);0;ES_330;Engines and machinery
+352;Eines mecàniques (filadora);Eines mecàniques (filadora);1;ES_330;Engines and machinery
+352;Mekaniko tresnak (Spinning);Mekaniko tresnak (Spinning);2;ES_330;Engines and machinery
+352;Ferramentas mecánicas (Spinning);Ferramentas mecánicas (Spinning);3;ES_330;Engines and machinery
+352;Eines mecàniques (filadora);Eines mecàniques (filadora);4;ES_330;Engines and machinery
+352;Eines mecàniques (filadora);Eines mecàniques (filadora);5;ES_330;Engines and machinery
+353;Herramientas mecánicas (Enfardadora);Herramientas mecánicas (Enfardadora);0;ES_330;Engines and machinery
+353;Eines mecàniques (Enfardadora);Eines mecàniques (Enfardadora);1;ES_330;Engines and machinery
+353;Mekaniko tresnak (Baler);Mekaniko tresnak (Baler);2;ES_330;Engines and machinery
+353;Ferramentas mecánicas (Baler);Ferramentas mecánicas (Baler);3;ES_330;Engines and machinery
+353;Eines mecàniques (Enfardadora);Eines mecàniques (Enfardadora);4;ES_330;Engines and machinery
+353;Eines mecàniques (Enfardadora);Eines mecàniques (Enfardadora);5;ES_330;Engines and machinery
+354;Herramientas mecánicas (Segadoras);Herramientas mecánicas (Segadoras);0;ES_330;Engines and machinery
+354;Eines mecàniques (Segadores);Eines mecàniques (Segadores);1;ES_330;Engines and machinery
+354;Tresneria mekanikoak (Mowers);Tresneria mekanikoak (Mowers);2;ES_330;Engines and machinery
+354;Ferramentas mecánicas (cortadores);Ferramentas mecánicas (cortadores);3;ES_330;Engines and machinery
+354;Eines mecàniques (Segadores);Eines mecàniques (Segadores);4;ES_330;Engines and machinery
+354;Eines mecàniques (Segadores);Eines mecàniques (Segadores);5;ES_330;Engines and machinery
+355;Herramientas mecánicas (bombas y motores de riego);Herr. mecánicas (bombas y motores de riego);0;ES_330;Engines and machinery
+355;Herramientas mecánicas (bombas y motores de riego);Herr. mecánicas (bombas y motores de riego);1;ES_330;Engines and machinery
+355;Herramientas mecánicas (bombas y motores de riego);Herr. mecánicas (bombas y motores de riego);2;ES_330;Engines and machinery
+355;Herramientas mecánicas (bombas y motores de riego);Herr. mecánicas (bombas y motores de riego);3;ES_330;Engines and machinery
+355;Herramientas mecánicas (bombas y motores de riego);Herr. mecánicas (bombas y motores de riego);4;ES_330;Engines and machinery
+355;Herramientas mecánicas (bombas y motores de riego);Herr. mecánicas (bombas y motores de riego);5;ES_330;Engines and machinery
+356;Herramientas mecánicas otras (conocidas);Herramientas mecánicas otras (conocidas);0;ES_330;Engines and machinery
+356;Eines mecàniques altres (conegudes);Eines mecàniques altres (conegudes);1;ES_330;Engines and machinery
+356;Beste tresna mekaniko batzuk (ezagunak);Beste tresna mekaniko batzuk (ezagunak);2;ES_330;Engines and machinery
+356;Outras ferramentas mecánicas (coñecidas);Outras ferramentas mecánicas (coñecidas);3;ES_330;Engines and machinery
+356;Eines mecàniques altres (conegudes);Eines mecàniques altres (conegudes);4;ES_330;Engines and machinery
+356;Eines mecàniques altres (conegudes);Eines mecàniques altres (conegudes);5;ES_330;Engines and machinery
+360;Herramientas manuales (otras);Herramientas manuales (otras);0;ES_330;Engines and machinery
+360;Eines manuals (altres);Eines manuals (altres);1;ES_330;Engines and machinery
+360;Eskuko tresnak (beste batzuk);Eskuko tresnak (beste batzuk);2;ES_330;Engines and machinery
+360;Ferramentas manuais (outras);Ferramentas manuais (outras);3;ES_330;Engines and machinery
+360;Eines manuals (altres);Eines manuals (altres);4;ES_330;Engines and machinery
+360;Eines manuals (altres);Eines manuals (altres);5;ES_330;Engines and machinery
+361;Herramientas manuales (Radial/Amoladora);Herramientas manuales (Radial/Amoladora);0;ES_330;Engines and machinery
+361;Eines manuals (Radial / Mola);Eines manuals (Radial / Mola);1;ES_330;Engines and machinery
+361;Hand tresnak (Radial / Grinder);Hand tresnak (Radial / Grinder);2;ES_330;Engines and machinery
+361;Ferramentas manuais (Radial / Grinder);Ferramentas manuais (Radial / Grinder);3;ES_330;Engines and machinery
+361;Eines manuals (Radial / Mola);Eines manuals (Radial / Mola);4;ES_330;Engines and machinery
+361;Eines manuals (Radial / Mola);Eines manuals (Radial / Mola);5;ES_330;Engines and machinery
+362;Herramientas manuales (Soldadura);Herramientas manuales (Soldadura);0;ES_330;Engines and machinery
+362;Eines manuals (Soldadura);Eines manuals (Soldadura);1;ES_330;Engines and machinery
+362;Eskuzko tresnak (Soldadura);Eskuzko tresnak (Soldadura);2;ES_330;Engines and machinery
+362;Ferramentas manuais (Soldadura);Ferramentas manuais (Soldadura);3;ES_330;Engines and machinery
+362;Eines manuals (Soldadura);Eines manuals (Soldadura);4;ES_330;Engines and machinery
+362;Eines manuals (Soldadura);Eines manuals (Soldadura);5;ES_330;Engines and machinery
+363;Herramientas manuales (Desbrozadora);Herramientas manuales (Desbrozadora);0;ES_330;Engines and machinery
+363;Eines manuals (Desbrossadora);Eines manuals (Desbrossadora);1;ES_330;Engines and machinery
+363;Eskuzko tresnak (eskuila ebakitzailea);Eskuzko tresnak (eskuila ebakitzailea);2;ES_330;Engines and machinery
+363;Ferramentas manuais (cortador de xesta);Ferramentas manuais (cortador de xesta);3;ES_330;Engines and machinery
+363;Eines manuals (Desbrossadora);Eines manuals (Desbrossadora);4;ES_330;Engines and machinery
+363;Eines manuals (Desbrossadora);Eines manuals (Desbrossadora);5;ES_330;Engines and machinery
+364;Herramientas manuales (Motosierras);Herramientas manuales (Motosierras);0;ES_330;Engines and machinery
+364;Eines manuals (Motoserres);Eines manuals (Motoserres);1;ES_330;Engines and machinery
+364;Eskuzko tresnak (Chainsaws);Eskuzko tresnak (Chainsaws);2;ES_330;Engines and machinery
+364;Ferramentas manuais (motoserras);Ferramentas manuais (motoserras);3;ES_330;Engines and machinery
+364;Eines manuals (Motoserres);Eines manuals (Motoserres);4;ES_330;Engines and machinery
+364;Eines manuals (Motoserres);Eines manuals (Motoserres);5;ES_330;Engines and machinery
+365;Herramientas manuales otras (conocidas);Herramientas manuales otras (conocidas);0;ES_330;Engines and machinery
+365;Eines manuals altres (conegudes);Eines manuals altres (conegudes);1;ES_330;Engines and machinery
+365;Eskuzko beste tresna batzuk (ezagunak);Eskuzko beste tresna batzuk (ezagunak);2;ES_330;Engines and machinery
+365;Outras ferramentas mecánicas (coñecidas);Outras ferramentas mecánicas (coñecidas);3;ES_330;Engines and machinery
+365;Eines manuals altres (conegudes);Eines manuals altres (conegudes);4;ES_330;Engines and machinery
+365;Eines manuals altres (conegudes);Eines manuals altres (conegudes);5;ES_330;Engines and machinery
+370;Escape de otras quemas controladas (conocidas);Escape de otras quemas controladas (conocidas);0;ES_296;Fires due other negligence cause
+370;Fuita daltres cremes controlades (conegudes);Fuita daltres cremes controlades (conegudes);1;ES_296;Fires due other negligence cause
+370;Iratzargailu kontrolatuetatik ihes egin (ezaguna);Iratzargailu kontrolatuetatik ihes egin (ezaguna);2;ES_296;Fires due other negligence cause
+370;Escape de outras queimaduras controladas (coñecidas);Escape de outras queimaduras controladas (coñecidas);3;ES_296;Fires due other negligence cause
+370;Fuita daltres cremes controlades (conegudes);Fuita daltres cremes controlades (conegudes);4;ES_296;Fires due other negligence cause
+370;Fuita daltres cremes controlades (conegudes);Fuita daltres cremes controlades (conegudes);5;ES_296;Fires due other negligence cause
+371;Escape de quema controlada en trabajos preventivos;Escape de quema controlada en trabajos preventivos;0;ES_296;Fires due other negligence cause
+371;Fuita dcrema controlada en treballs preventius;Fuita dcrema controlada en treballs preventius;1;ES_296;Fires due other negligence cause
+371;Kontrolatutako erretzea ihes egitea prebentziozko lanetan;Kontrolatutako erretzea ihes egitea prebentziozko lanetan;2;ES_296;Fires due other negligence cause
+371;Escape de combustión controlada en traballos preventivos;Escape de combustión controlada en traballos preventivos;3;ES_296;Fires due other negligence cause
+371;Fuita dcrema controlada en treballs preventius;Fuita dcrema controlada en treballs preventius;4;ES_296;Fires due other negligence cause
+371;Fuita dcrema controlada en treballs preventius;Fuita dcrema controlada en treballs preventius;5;ES_296;Fires due other negligence cause
+372;Escape de quema controlada para limpieza y regeneración de fincas ganaderas;Escape de quema controlada para limpieza y regeneración de fincas ganaderas;0;ES_296;Fires due other negligence cause
+372;Fuita dcrema controlada per a neteja i regeneració de finques ramaderes;Fuita dcrema controlada per a neteja i regeneració de finques ramaderes;1;ES_296;Fires due other negligence cause
+372;Abeltzaintzako ustiategien garbiketa eta birsorkuntza kontrolatzeko erretzea;Abeltzaintzako ustiategien garbiketa eta birsorkuntza kontrolatzeko erretzea;2;ES_296;Fires due other negligence cause
+372;Escape de combustión controlada para a limpeza e rexeneración das explotacións ganaderas;Escape de combustión controlada para a limpeza e rexeneración das explotacións ganaderas;3;ES_296;Fires due other negligence cause
+372;Fuita dcrema controlada per a neteja i regeneració de finques ramaderes;Fuita dcrema controlada per a neteja i regeneració de finques ramaderes;4;ES_296;Fires due other negligence cause
+372;Fuita dcrema controlada per a neteja i regeneració de finques ramaderes;Fuita dcrema controlada per a neteja i regeneració de finques ramaderes;5;ES_296;Fires due other negligence cause
+399;Otras causas no intencionales (conocidas);Otras causas no intencionales (conocidas);0;ES_296;Fires due other negligence cause
+399;Altres causes no intencionals (conegudes);Altres causes no intencionals (conegudes);1;ES_296;Fires due other negligence cause
+399;Beste nahigabeko arrazoiak (ezagunak);Beste nahigabeko arrazoiak (ezagunak);2;ES_296;Fires due other negligence cause
+399;Outras causas involuntarias (coñecidas);Outras causas involuntarias (coñecidas);3;ES_296;Fires due other negligence cause
+399;Altres causes no intencionals (conegudes);Altres causes no intencionals (conegudes);4;ES_296;Fires due other negligence cause
+399;Altres causes no intencionals (conegudes);Altres causes no intencionals (conegudes);5;ES_296;Fires due other negligence cause
+400;Intencionado;Intencionado;0;ES_400;Intentional
+400;Intencionat;Intencionat;1;ES_400;Intentional
+400;Nahitakoa;Nahitakoa;2;ES_400;Intentional
+400;Intencionado;Intencionado;3;ES_400;Intentional
+400;Intencionat;Intencionat;4;ES_400;Intentional
+400;Intencionat;Intencionat;5;ES_400;Intentional
+500;Desconocida;Desconocida;0;ES_500;Unknown
+500;Desconeguda;Desconeguda;1;ES_500;Unknown
+500;Ezezaguna;Ezezaguna;2;ES_500;Unknown
+500;Descoñecida;Descoñecida;3;ES_500;Unknown
+500;Desconeguda;Desconeguda;4;ES_500;Unknown
+500;Desconeguda;Desconeguda;5;ES_500;Unknown
+600;Reproducido;Reproducido;0;ES_600;Restart of fire
+600;Reproducció;Reproducció;1;ES_600;Restart of fire
+600;Berriz hasitakoa;Berriz hasitakoa;2;ES_600;Restart of fire
+600;Reproducido;Reproducido;3;ES_600;Restart of fire
+600;Reproducció;Reproducció;4;ES_600;Restart of fire
+600;Reproducció;Reproducció;5;ES_600;Restart of fire

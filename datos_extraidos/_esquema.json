@@ -1,0 +1,1776 @@
+{
+  "base_de_datos": "PlantillaEgifWebDetalle.mdb",
+  "extraido": "2026-07-26T17:05:11",
+  "tablas": [
+    {
+      "tabla": "CatalogoMonte",
+      "columnas": [
+        {
+          "nombre": "IdCatalogoMonte",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "NumCatalogo",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdComunidad",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdProvincia",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdMunicipio",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdDemanialMonte",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdTitularidadMonte",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Propietario",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "EsProtector",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "EsConsorciado",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodAprovechamiento",
+      "columnas": [
+        {
+          "nombre": "IdAprovechamiento",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 200,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionCorta",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodAtaque",
+      "columnas": [
+        {
+          "nombre": "IdAtaque",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 30,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodAutorizacionActividad",
+      "columnas": [
+        {
+          "nombre": "IdAutorizacionActividad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodCausa",
+      "columnas": [
+        {
+          "nombre": "IdCausa",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionCorta",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdCausaEuropa",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionEuropa",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodCausante",
+      "columnas": [
+        {
+          "nombre": "IdCausante",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodCertidumbreCausa",
+      "columnas": [
+        {
+          "nombre": "IdCertidumbreCausa",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 15,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodClaseDia",
+      "columnas": [
+        {
+          "nombre": "IdClaseDia",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodConsecuenciaPersona",
+      "columnas": [
+        {
+          "nombre": "IdConsecuenciaPersona",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionPlural",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodDatum",
+      "columnas": [
+        {
+          "nombre": "IdDatum",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodDemanialMonte",
+      "columnas": [
+        {
+          "nombre": "IdDemanialMonte",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionCorta",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodDetectadoPor",
+      "columnas": [
+        {
+          "nombre": "IdDetectadoPor",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 20,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodEspecieArbol",
+      "columnas": [
+        {
+          "nombre": "IdEspecie",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "idtipo",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodEstacionMeteorologica",
+      "columnas": [
+        {
+          "nombre": "IdEstacionMeteorologica",
+          "tipo": "VARCHAR",
+          "tamanio": 6,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 30,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Huso",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "X",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Y",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "codigoalternativo",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "identificadoraemet",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "fechabaja",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodEstadoMasa",
+      "columnas": [
+        {
+          "nombre": "IdEstadoMasa",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionCorta",
+          "tipo": "VARCHAR",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "EsPrincipal",
+          "tipo": "BIT",
+          "tamanio": 1,
+          "admite_nulos": false
+        },
+        {
+          "nombre": "EsComercial",
+          "tipo": "BIT",
+          "tamanio": 1,
+          "admite_nulos": false
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodEstadoPif",
+      "columnas": [
+        {
+          "nombre": "IdEstadoPif",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 30,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodGradoResponsabilidad",
+      "columnas": [
+        {
+          "nombre": "IdGradoResponsabilidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodGrupoCausa",
+      "columnas": [
+        {
+          "nombre": "IdGrupoCausa",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodGrupoMedioRetardante",
+      "columnas": [
+        {
+          "nombre": "IdGrupoMedioRetardante",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodGrupoMotivacion",
+      "columnas": [
+        {
+          "nombre": "IdGrupoMotivacion",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodIdioma",
+      "columnas": [
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "CultureInfoName",
+          "tipo": "VARCHAR",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "NombreTraducido",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodIncidenciaProtecCivil",
+      "columnas": [
+        {
+          "nombre": "IdIncidenciaProtecCivil",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodIniciadoJuntoA",
+      "columnas": [
+        {
+          "nombre": "IdIniciadoJuntoA",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodInvestigacionCausa",
+      "columnas": [
+        {
+          "nombre": "IdInvestigacionCausa",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodMedioAereo",
+      "columnas": [
+        {
+          "nombre": "IdMedioAereo",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 70,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodMedioPersonalExt",
+      "columnas": [
+        {
+          "nombre": "IdMedioPersonalExt",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodMedioPesado",
+      "columnas": [
+        {
+          "nombre": "IdMedioPesado",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodMfeFormacionArborea",
+      "columnas": [
+        {
+          "nombre": "IdClave",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Codigo",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nom",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodMfeTipoEstructural",
+      "columnas": [
+        {
+          "nombre": "IdTipoEstructural",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "AnioCreacion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "PrimeraDefinicion",
+          "tipo": "VARCHAR",
+          "tamanio": 200,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodModeloCombustion",
+      "columnas": [
+        {
+          "nombre": "IdModeloCombustion",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 40,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodMotivacion",
+      "columnas": [
+        {
+          "nombre": "IdMotivacion",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdCodigoEuropa",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionEuropa",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodNivelGravedad",
+      "columnas": [
+        {
+          "nombre": "IdNivelGravedad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodNoArboladoHerbaceo",
+      "columnas": [
+        {
+          "nombre": "IdNoArboladoHerbaceo",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodNoArboladoLenioso",
+      "columnas": [
+        {
+          "nombre": "IdNoArboladoLenioso",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodNoForestal",
+      "columnas": [
+        {
+          "nombre": "IdNoForestal",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodPeligro",
+      "columnas": [
+        {
+          "nombre": "IdPeligro",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 30,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodPorcentajeAutoRegenerable",
+      "columnas": [
+        {
+          "nombre": "IdPorcentajeAutoRegenerable",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodRetardante",
+      "columnas": [
+        {
+          "nombre": "IdRetardante",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 35,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodRiesgo",
+      "columnas": [
+        {
+          "nombre": "IdRiesgo",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 30,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoArea",
+      "columnas": [
+        {
+          "nombre": "IdTipoArea",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoAtaqueIndirecto",
+      "columnas": [
+        {
+          "nombre": "IdTipoAtaqueIndirecto",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoEfecto",
+      "columnas": [
+        {
+          "nombre": "IdTipoEfecto",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoEspacioProtegido",
+      "columnas": [
+        {
+          "nombre": "IdTipoEspacioProtegido",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoFuego",
+      "columnas": [
+        {
+          "nombre": "IdTipoFuego",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 40,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoProducto",
+      "columnas": [
+        {
+          "nombre": "IdTipoProducto",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 25,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoRenta",
+      "columnas": [
+        {
+          "nombre": "IdTipoRenta",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTipoVictima",
+      "columnas": [
+        {
+          "nombre": "IdTipoVictima",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTitularidadMedio",
+      "columnas": [
+        {
+          "nombre": "IdTitularidadMedio",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTitularidadMonte",
+      "columnas": [
+        {
+          "nombre": "IdTitularidadMonte",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "DescripcionCorta",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodTransportePersonal",
+      "columnas": [
+        {
+          "nombre": "IdTransportePersonal",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Descripcion",
+          "tipo": "VARCHAR",
+          "tamanio": 30,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "CodVigilanteFijo",
+      "columnas": [
+        {
+          "nombre": "IdProvincia",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdVigilante",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 40,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Huso",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "X",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Y",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "fechabaja",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "Cod_Causas_USOS",
+      "columnas": [
+        {
+          "nombre": "Codigo",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Usos",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "ComarcaIsla",
+      "columnas": [
+        {
+          "nombre": "IdComunidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdComarcaIsla",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 45,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "Comunidad",
+      "columnas": [
+        {
+          "nombre": "IdComunidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 15,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "EntidadMenor",
+      "columnas": [
+        {
+          "nombre": "IdComunidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdProvincia",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdMunicipio",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdEntidadMenor",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 45,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Hoja",
+          "tipo": "VARCHAR",
+          "tamanio": 4,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Cuadricula",
+          "tipo": "VARCHAR",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Huso",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "X",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Y",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "EspacioProtegido",
+      "columnas": [
+        {
+          "nombre": "IdEspacioProtegido",
+          "tipo": "VARCHAR",
+          "tamanio": 15,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdTipoEspacioProtegido",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 200,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Superficie",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "Municipio",
+      "columnas": [
+        {
+          "nombre": "IdComunidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdProvincia",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdMunicipio",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdComarcaIsla",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Huso",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "X",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Y",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Hoja",
+          "tipo": "VARCHAR",
+          "tamanio": 4,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Cuadricula",
+          "tipo": "VARCHAR",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "fechabaja",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "Provincia",
+      "columnas": [
+        {
+          "nombre": "IdProvincia",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdComunidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 15,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "SuperficieArbolada",
+          "tipo": "DOUBLE",
+          "tamanio": 53,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "SuperficieForestal",
+          "tipo": "DOUBLE",
+          "tamanio": 53,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdNuts3",
+          "tipo": "VARCHAR",
+          "tamanio": 6,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "Regiones_Geograficas",
+      "columnas": [
+        {
+          "nombre": "IdComunidad",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdProvincia",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdMunicipio",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Municipio",
+          "tipo": "VARCHAR",
+          "tamanio": 50,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "INE",
+          "tipo": "INTEGER",
+          "tamanio": 10,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Nombre",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Para mapa",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "Región Geográfica",
+          "tipo": "VARCHAR",
+          "tamanio": 255,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "RelGrupoCausa",
+      "columnas": [
+        {
+          "nombre": "IdCausa",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdGrupoCausa",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    },
+    {
+      "tabla": "RelGrupoMotivacion",
+      "columnas": [
+        {
+          "nombre": "IdMotivacion",
+          "tipo": "SMALLINT",
+          "tamanio": 5,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdIdioma",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        },
+        {
+          "nombre": "IdGrupoMotivacion",
+          "tipo": "BYTE",
+          "tamanio": 3,
+          "admite_nulos": true
+        }
+      ],
+      "clave_primaria": []
+    }
+  ]
+}

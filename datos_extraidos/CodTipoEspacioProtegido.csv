@@ -1,0 +1,301 @@
+﻿IdTipoEspacioProtegido;IdIdioma;Descripcion
+50;0;Árbol Singular
+50;1;Arbre Singular
+50;2;Zuhaitz singularra
+50;3;Árbore singular
+50;4;Arbre Singular
+50;5;Arbre Singular
+51;0;Área Natural Recreativa
+51;1;Àrea Natural Recreativa
+51;2;Aisialdirako gune naturala
+51;3;Área de Recreación Natural
+51;4;Àrea Natural Recreativa
+51;5;Àrea Natural Recreativa
+52;0;Área Natural Singular
+52;1;Área Natural Singular
+52;2;Natur eremu berezia
+52;3;Área Natural Singular
+52;4;Área Natural Singular
+52;5;Área Natural Singular
+53;0;Biotopo Protegido
+53;1;Biòtop Protegit
+53;2;Biotopo babestua
+53;3;Biotopo protexido
+53;4;Biòtop Protegit
+53;5;Biòtop Protegit
+54;0;Corredor Ecológico y de Biodiversidad
+54;1;Corredor Ecològic i de Biodiversitat
+54;2;Biodibertsitate ekologikoa eta korridorea
+54;3;Corredor ecolóxico e biodiversidade
+54;4;Corredor Ecològic i de Biodiversitat
+54;5;Corredor Ecològic i de Biodiversitat
+55;0;Cuevas
+55;1;Cuevas
+55;2;Cuevas
+55;3;Covas
+55;4;Coves
+55;5;Coves
+56;0;Enclave Natural
+56;1;Enclavament Natural
+56;2;Enklave naturala
+56;3;Enclave natural
+56;4;Enclavament Natural
+56;5;Enclavament Natural
+57;0;Espacio Natural Protegido
+57;1;Espai Natural Protegit
+57;2;Babestutako espazio naturala
+57;3;Espazo natural protexido
+57;4;Espai Natural Protegit
+57;5;Espai Natural Protegit
+58;0;Humedal Protegido
+58;1;Aiguamoll Protegit
+58;2;Hezegune babestua
+58;3;Humedecemento protexido
+58;4;Aiguamoll Protegit
+58;5;Aiguamoll Protegit
+59;0;LIC
+59;1;LIC
+59;2;LIC
+59;3;LIC
+59;4;LIC
+59;5;LIC
+60;0;Lugar de Interés Científico
+60;1;Lloc dInterès Científic
+60;2;Interes zientifikoen lekua
+60;3;Lugar de Interese Científico
+60;4;Lloc dInterès Científic
+60;5;Lloc dInterès Científic
+61;0;Microrreserva
+61;1;Microrreserva
+61;2;Microreserve
+61;3;Microrreserva
+61;4;Microrreserva
+61;5;Microrreserva
+62;0;Monumento Natural
+62;1;Monument Natural
+62;2;Monumentu naturala
+62;3;Monumento natural
+62;4;Monument Natural
+62;5;Monument Natural
+63;0;Monumento Natural de Interés Nacional
+63;1;Monument Natural d'Interès Nacional
+63;2;Interes Nazionaleko Monumentu Nazionala
+63;3;Monumento Nacional de Interese Nacional
+63;4;Monument Natural d'Interès Nacional
+63;5;Monument Natural d'Interès Nacional
+64;0;Paisaje Protegido
+64;1;Paisatge Protegit
+64;2;Paisai babestua
+64;3;Paisaje protexido
+64;4;Paisatge Protegit
+64;5;Paisatge Protegit
+65;0;Paraje Natural
+65;1;Paratge Natural
+65;2;Leku naturala
+65;3;Lugar natural
+65;4;Paratge Natural
+65;5;Paratge Natural
+66;0;Paraje Natural de Interés Nacional
+66;1;Paratge Natural dInterès Nacional
+66;2;Interes Nazionaleko gune naturala
+66;3;Sitio natural de interese nacional
+66;4;Paratge Natural dInterès Nacional
+66;5;Paratge Natural dInterès Nacional
+67;0;Paraje Natural Municipal
+67;1;Paratge Natural Municipal
+67;2;Udal Arloa
+67;3;Área Natural Municipal
+67;4;Paratge Natural Municipal
+67;5;Paratge Natural Municipal
+68;0;Paraje Pintoresco
+68;1;Paratge Pintoresc
+68;2;Leku pintoreskoa
+68;3;Lugar pintoresco
+68;4;Paratge Pintoresc
+68;5;Paratge Pintoresc
+69;0;Parque Nacional
+69;1;Parc Nacional
+69;2;Parke Nazionala
+69;3;Parque Nacional
+69;4;Parc Nacional
+69;5;Parc Nacional
+70;0;Parque Natural
+70;1;Parc Natural
+70;2;Natur Parkea
+70;3;Parque Natural
+70;4;Parc Natural
+70;5;Parc Natural
+71;0;Parque Periurbano
+71;1;Parc Periurbà
+71;2;Periko hiriko parkea
+71;3;Parque periurbano
+71;4;Parc Periurbà
+71;5;Parc Periurbà
+72;0;Parque Periurbano de Conservación y Ocio
+72;1;Parc Periurbà de Conservació i Oci
+72;2;Peri-hiriko kontserbazioa eta aisia ??parkea
+72;3;Parque periurbano de conservación e lecer
+72;4;Parc Periurbà de Conservació i Oci
+72;5;Parc Periurbà de Conservació i Oci
+73;0;Parque Regional
+73;1;Parc Regional
+73;2;Eskualdeko parkea
+73;3;Parque Rexional
+73;4;Parc Regional
+73;5;Parc Regional
+74;0;Parque Rural
+74;1;Parc Rural
+74;2;Landa parkea
+74;3;Parque rural
+74;4;Parc Rural
+74;5;Parc Rural
+75;0;Plan Especial de Protección PEIN
+75;1;Pla especial de protecció PEIN
+75;2;PEIN Babeserako Plan Berezia
+75;3;Plan Especial de Protección PEIN
+75;4;Pla especial de protecció PEIN
+75;5;Pla especial de protecció PEIN
+76;0;Refugio de Fauna
+76;1;Refugi de Fauna
+76;2;Wildlife Refuge
+76;3;Refuxio de vida salvaxe
+76;4;Refugi de Fauna
+76;5;Refugi de Fauna
+77;0;Reserva de Fauna
+77;1;Reserva de Fauna
+77;2;Wildlife Reserve
+77;3;Reserva de vida salvaxe
+77;4;Reserva de Fauna
+77;5;Reserva de Fauna
+78;0;Reserva de la Biosfera
+78;1;Reserva de la Biosfera
+78;2;Biosfera Erreserba
+78;3;Reserva da biosfera
+78;4;Reserva de la Biosfera
+78;5;Reserva de la Biosfera
+79;0;Reserva Fluvial
+79;1;Reserva Fluvial
+79;2;Ibai erreserba
+79;3;Reserva do río
+79;4;Reserva Fluvial
+79;5;Reserva Fluvial
+80;0;Reserva Integral
+80;1;Reserva Integral
+80;2;Erreserba integrala
+80;3;Reserva integral
+80;4;Reserva Integral
+80;5;Reserva Integral
+81;0;Reserva Natural
+81;1;Reserva Natural
+81;2;Erreserba naturala
+81;3;Reserva Natural
+81;4;Reserva Natural
+81;5;Reserva Natural
+82;0;Reserva Natural Concertada
+82;1;Reserva Natural Concertada
+82;2;Kontzertu naturaleko erreserba
+82;3;Reserva Natural Concertada
+82;4;Reserva Natural Concertada
+82;5;Reserva Natural Concertada
+83;0;Reserva Natural de Fauna Salvaje
+83;1;Reserva Natural de Fauna Salvatge
+83;2;Wildlife Reserve
+83;3;Reserva Natural de Vida Silvestre
+83;4;Reserva Natural de Fauna Salvatge
+83;5;Reserva Natural de Fauna Salvatge
+84;0;Reserva Natural Dirigida
+84;1;Reserva Natural Dirigida
+84;2;Natur Erreserba zuzendua
+84;3;Reserva natural dirixida
+84;4;Reserva Natural Dirigida
+84;5;Reserva Natural Dirigida
+85;0;Reserva Natural Especial
+85;1;Reserva Natural Especial
+85;2;Natur Erreserba Berezia
+85;3;Reserva Natural Especial
+85;4;Reserva Natural Especial
+85;5;Reserva Natural Especial
+86;0;Reserva Natural Integral
+86;1;Reserva Natural Integral
+86;2;Erreserba Natural Integrala
+86;3;Reserva Natural Integral
+86;4;Reserva Natural Integral
+86;5;Reserva Natural Integral
+87;0;Reserva Natural Marina
+87;1;Reserva Natural Marina
+87;2;Itsasoko Natura Erreserba
+87;3;Reserva natural mariña
+87;4;Reserva Natural Marina
+87;5;Reserva Natural Marina
+88;0;Reserva Natural Parcial
+88;1;Reserva Natural Parcial
+88;2;Partaideen erreserba naturala
+88;3;Reserva Natural Parcial
+88;4;Reserva Natural Parcial
+88;5;Reserva Natural Parcial
+89;0;Sin determinar
+89;1;Sense determinar
+89;2;Ez da zehaztu
+89;3;Non determinado
+89;4;Sense determinar
+89;5;Sense determinar
+90;0;Sin determinar Reservas de la Biosfera, etc
+90;1;Sense determinar Reserves de la Biosfera, etc.
+90;2;Biosfera Erreserbak zehaztu gabe, eta abar
+90;3;Sen determinar as Reservas da Biosfera, etc.
+90;4;Sense determinar Reserves de la Biosfera, etc.
+90;5;Sense determinar Reserves de la Biosfera, etc.
+91;0;Sitio de Interés Científico
+91;1;Lloc dInterès Científic
+91;2;Interes zientifikoaren gunea
+91;3;Sitio de Interese Científico
+91;4;Lloc dInterès Científic
+91;5;Lloc dInterès Científic
+92;0;Sitio Natural de Interés Nacional
+92;1;Lloc Natural dInterès Nacional
+92;2;Interes Nazionaleko gune naturala
+92;3;Sitio natural de interese nacional
+92;4;Lloc Natural dInterès Nacional
+92;5;Lloc Natural dInterès Nacional
+93;0;ZEPA
+93;1;ZEPA
+93;2;ZEPA
+93;3;ZEPA
+93;4;ZEPA
+93;5;ZEPA
+94;0;Zona de Especial Conservación de Importancia Comunitaria
+94;1;Zona dEspecial Conservació dImportància Comunitària
+94;2;Erkidegoko Garrantzia Berezia Kontserbatzeko Arloa
+94;3;Área especial de conservación de importancia comunitaria
+94;4;Zona dEspecial Conservació dImportància Comunitària
+94;5;Zona dEspecial Conservació dImportància Comunitària
+95;0;Zona de Especial Protección de los Valores Naturales
+95;1;Zona dEspecial Protecció dels Valors Naturals
+95;2;Balio naturalak babesteko eremu berezia
+95;3;Área de protección especial para valores naturais
+95;4;Zona dEspecial Protecció dels Valors Naturals
+95;5;Zona dEspecial Protecció dels Valors Naturals
+96;0;Zona de Interes Regional
+96;1;Zona d Interes Regional
+96;2;Eskualdeko interes gunea
+96;3;Zona de Interese Rexional
+96;4;Zona d Interes Regional
+96;5;Zona d Interes Regional
+97;0;Zona de la Red Ecológica Europea Natura 2000
+97;1;Zona de la Xarxa Ecològica Europea Natura 2000
+97;2;Natura 2000 Sarearen Europako Sarearen Ekologia
+97;3;Zona da Rede Ecolóxica Europea Natura 2000
+97;4;Zona de la Xarxa Ecològica Europea Natura 2000
+97;5;Zona de la Xarxa Ecològica Europea Natura 2000
+98;0;Zonas Húmedas
+98;1;Zones Humides
+98;2;Wet eremuak
+98;3;Áreas húmidas
+98;4;Zones Humides
+98;5;Zones Humides
+99;0;esm01
+99;1;esm01
+99;2;esm01
+99;3;esm01
+99;4;esm01
+99;5;esm01

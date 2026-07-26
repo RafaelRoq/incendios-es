@@ -1,0 +1,103 @@
+﻿IdGrupoCausa;Descripcion;IdIdioma
+10;Naturales;0
+10;Naturals;1
+10;Naturalak;2
+10;Naturais;3
+10;Naturals;4
+10;Naturals;5
+21;Quema agrícola;0
+21;Crema agrícola;1
+21;Nekazal erreketak;2
+21;Queima agrícola;3
+21;Crema agrícola;4
+21;Crema agrícola;5
+22;Quemas ganaderas;0
+22;Cremes ganaderes;1
+22;Abeltzain erreketak;2
+22;Queimas gandeiras;3
+22;Cremes ganaderes;4
+22;Cremes ganaderes;5
+23;Trabajos forestales;0
+23;Treballs forestals;1
+23;Baso lanak ;2
+23;Traballos forestais;3
+23;Treballs forestals;4
+23;Treballs forestals;5
+24;Hogueras y barbacoas;0
+24;Fogueres i torrades;1
+24;Suak eta barbakoak;2
+24;Fogueiras e churrascos;3
+24;Fogueres i torrades;4
+24;Fogueres i torrades;5
+25;Fumadores;0
+25;Fumadors;1
+25;Erretzaileak;2
+25;Fumadores;3
+25;Fumadors;4
+25;Fumadors;5
+26;Eliminación de basuras y restos;0
+26;Eliminació d'escombraries i restes;1
+26;Zabor eta hondakin  kentzea;2
+26;Eliminación de lixo e restos;3
+26;Eliminació d'escombraries i restes;4
+26;Eliminació d'escombraries i restes;5
+28;Control de vegetación;0
+28;Control de vegetació;1
+28;landarediaren kontrola;2
+28;Control de vexetación;3
+28;Control de vegetació;4
+28;Control de vegetació;5
+29;Otras actividades o usos del monte;0
+29;Altres activitats o usos de la forest;1
+29;Beste mendi aktibitate edo erabilerak;2
+29;Outras actividades ou usos do ;3
+29;Altres activitats o usos de la forest;4
+29;Altres activitats o usos de la forest;5
+31;Ferrocarril;0
+31;Ferrocarril;1
+31;Trenbidea;2
+31;Ferrocarril;3
+31;Ferrocarril;4
+31;Ferrocarril;5
+32;Líneas eléctricas;0
+32;Línies elèctriques;1
+32;Linea elektrikoa;2
+32;Liñas eléctricas;3
+32;Línies elèctriques;4
+32;Línies elèctriques;5
+33;Motores y máquinas;0
+33;Motors i màquines;1
+33;Motorrak eta makinak;2
+33;Motores e máquinas;3
+33;Motors i màquines;4
+33;Motors i màquines;5
+34;Actividades militares;0
+34;Activitats militars;1
+34;Aktibitate militarrak;2
+34;Actividades militares;3
+34;Activitats militars;4
+34;Activitats militars;5
+37;Escapes de quemas controladas;0
+37;Fuga de cremes controlades;1
+37;Kontrolatutako erreketetako ihesak;2
+37;Escapes de queimas controladas;3
+37;Fuga de cremes controlades;4
+37;Fuga de cremes controlades;5
+40;Incendio intencionado;0
+40;Incendio intencionat;1
+40;Nahitako sutea;2
+40;Incendio intencionado;3
+40;Incendio intencionat;4
+40;Incendio intencionat;5
+50;Causa desconocida;0
+50;Causa desconeguda;1
+50;Arrazoi ezezaguna;2
+50;Causa descoñecida;3
+50;Causa desconeguda;4
+50;Causa desconeguda;5
+60;Incendio reproducido;0
+60;Incendi reproduit;1
+60;Berriz hasitako sutea;2
+60;Incendio reproducido;3
+60;Incendi reproduit;4
+60;Incendi reproduit;5
