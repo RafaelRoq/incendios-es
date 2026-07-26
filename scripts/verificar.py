@@ -295,11 +295,24 @@ def main() -> None:
                          "no una muestra. Tarda unos minutos mas.")
     args = ap.parse_args()
 
-    if not PRINCIPAL.is_file():
-        sys.exit(f"Falta {PRINCIPAL.name}. Ejecuta antes unir_pif.py")
+    # Este script trabaja sobre los CSV sin comprimir, que es como los dejan
+    # unir_pif.py y tablas_secundarias.py. Si ya se ha pasado comprimir.py, los
+    # originales no estan y hay que regenerarlos: verificar contra el .gz no
+    # probaria nada que comprimir.py no compruebe ya por SHA-256.
+    comprimidos = (PRINCIPAL.with_suffix(".csv.gz").is_file()
+                   or any(SECUNDARIAS.rglob("*.csv.gz")))
+    if not PRINCIPAL.is_file() or not ficheros_secundarios():
+        if comprimidos:
+            sys.exit("Las tablas ya estan comprimidas (.csv.gz) y este script necesita "
+                     "los .csv sin comprimir.\n"
+                     "Regeneralos con:  python scripts/unir_pif.py  y  "
+                     "python scripts/tablas_secundarias.py\n"
+                     "(comprimir.py ya verifica por SHA-256 que el .gz devuelve el "
+                     "original byte a byte)")
+        sys.exit("Faltan las tablas. Ejecuta antes:\n"
+                 "  python scripts/unir_pif.py\n"
+                 "  python scripts/tablas_secundarias.py")
     sec = ficheros_secundarios()
-    if not sec:
-        sys.exit(f"Falta {SECUNDARIAS}. Ejecuta antes tablas_secundarias.py")
 
     esquema = leer_esquema(DIR_XML)
 

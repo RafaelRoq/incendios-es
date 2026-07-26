@@ -24,7 +24,8 @@ import csv
 import sys
 from pathlib import Path
 
-RAIZ = Path(__file__).resolve().parent
+# Los scripts viven en scripts/, los datos cuelgan de la raiz del proyecto
+RAIZ = Path(__file__).resolve().parent.parent
 MDB = RAIZ / "PlantillaEgifWebDetalle.mdb"
 SALIDA = RAIZ / "relaciones_egif.csv"
 

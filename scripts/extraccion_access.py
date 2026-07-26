@@ -35,7 +35,8 @@ except ImportError:
     sys.exit("Falta pyodbc. Instalalo con:  pip install pyodbc")
 
 
-RAIZ = Path(__file__).resolve().parent
+# Los scripts viven en scripts/, los datos cuelgan de la raiz del proyecto
+RAIZ = Path(__file__).resolve().parent.parent
 LOTE = 5000  # filas por lectura, para no cargar tablas grandes enteras en memoria
 
 # --- Seleccion para publicacion (--solo-necesarios) -------------------------

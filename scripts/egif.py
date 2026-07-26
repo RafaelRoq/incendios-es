@@ -17,7 +17,8 @@ from pathlib import Path
 from typing import Iterator
 from xml.etree import ElementTree as ET
 
-RAIZ = Path(__file__).resolve().parent
+# Los scripts viven en scripts/, los datos cuelgan de la raiz del proyecto
+RAIZ = Path(__file__).resolve().parent.parent
 DIR_XML = RAIZ / "datos_egif"
 
 # Espacio de nombres del XSD que el MITECO embebe al principio de cada XML

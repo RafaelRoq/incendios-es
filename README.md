@@ -332,13 +332,15 @@ donde pone `RelTipoTransportePersonalPif` es `RelTransportePersonalPif`; donde p
 **El orden importa**: cada paso usa la salida del anterior.
 
 ```bash
-python extraer_relaciones.py                   # .mdb -> relaciones_egif.csv
-python extraccion_access.py --solo-necesarios  # .mdb -> datos_extraidos/ (61 catálogos)
-python unir_pif.py                             # XML  -> incendios_pif.csv
-python tablas_secundarias.py                   # XML  -> tablas_secundarias/
-python verificar.py --exhaustivo               # comprueba todo contra el XML
-python comprimir.py                            # .csv -> .csv.gz
+python scripts/extraer_relaciones.py                   # .mdb -> relaciones_egif.csv
+python scripts/extraccion_access.py --solo-necesarios  # .mdb -> datos_extraidos/
+python scripts/unir_pif.py                             # XML  -> incendios_pif.csv
+python scripts/tablas_secundarias.py                   # XML  -> tablas_secundarias/
+python scripts/verificar.py --exhaustivo               # comprueba todo contra el XML
+python scripts/comprimir.py                            # .csv -> .csv.gz
 ```
+
+Se ejecutan desde la raíz del proyecto; los scripts localizan los datos por sí solos.
 
 `relaciones_egif.csv` va primero porque los dos pasos siguientes lo leen: uno para
 saber qué catálogos hacen falta y otro para saber en qué nivel va cada tabla. Si falta,
